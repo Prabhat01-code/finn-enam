@@ -10,7 +10,7 @@ The Site remains public. Earlier descriptions of it as private were incorrect. G
 
 ## GitHub publication verification
 
-On 15 November 2026, all 214 published files at commit `c787beb34df303f6eeca34eb54a931d25cddaaaa` matched the prepared source by Git blob SHA and file mode. The source includes setup instructions, the covering writeup, demo guide, production receipt and a filtered export of 109 actual user-visible collaboration messages. Credentials and local paths are redacted from that export; its header states the scope. Local credentials and generated outputs are excluded from the repository.
+On 15 November 2026, all 214 published files at commit `c787beb34df303f6eeca34eb54a931d25cddaaaa` matched the prepared source by Git blob SHA and file mode. That file count records the initial publication, before subsequent submission-document changes. The repository includes setup instructions, the covering writeup, demo guide and production receipt. Local credentials and generated outputs are excluded from the repository.
 
 A fresh public clone of that commit passed `npm ci`, `npm run lint`, `npm run typecheck`, all 67 tests with `npm test`, `npm run build`, and `npm run db:migrate` on macOS with Node.js 25.2.1. No `.dev.vars` or model credentials were present. The local database command required loopback access, which the execution sandbox initially blocked; it passed after that access was allowed. These checks do not establish Linux or Node.js 24 compatibility independently.
 

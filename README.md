@@ -2,6 +2,8 @@
 
 **Less noise. More signal.** A mobile-first portfolio inbox and primary-source research workspace for the ENAM AI Engineer Build Challenge.
 
+Built with coding assistance from **Codex**.
+
 FINN connects a filing worth investigating to the company documents behind it. The Infosys demonstration follows one FY25 revenue-growth target through four revisions, then compares the final range with the matching full-year actual. It preserves the distinction between “exceeded the original target” and “missed the final target.” Polycab adds a completed capex comparison; HCLTech adds a pending annual target with explicitly different acquisition bases. Both include source-checked quarterly results.
 
 - **18-company mock portfolio:** real NSE disclosures and completed daily price/volume observations. Configurable price, volume and announcement rules; read state and deduplicated alerts persist in D1.
@@ -18,7 +20,6 @@ FINN connects a filing worth investigating to the company documents behind it. T
 
 - [Live prototype](https://finn-prabhat-enam.shadowps-07.chatgpt.site)
 - [GitHub source](https://github.com/Prabhat01-code/finn-enam)
-- [Actual AI collaboration export and scope note](docs/AI-HISTORY.md)
 - [Short covering writeup](docs/COVERING-WRITEUP.md)
 - [Three-minute demo](docs/DEMO-WALKTHROUGH.md)
 - [Production verification receipt](docs/PRODUCTION-VERIFICATION.json)
@@ -114,7 +115,6 @@ Saved snapshot + D1 records
 - `app/api/[...path]/route.ts`: validated API and same-origin writes.
 - `app/page.tsx`, `components/research-answer.tsx`: responsive inbox and evidence-led research.
 - `docs/ARCHITECTURE.md`: trust boundaries, tradeoffs and next steps.
-- `docs/AI-HISTORY.md`: filtered export of actual user-visible collaboration messages.
 
 ## Refresh and monitoring
 

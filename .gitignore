@@ -41,6 +41,9 @@ yarn-error.log*
 /outputs/
 /work/
 
+# Development conversations are shared separately for submission.
+/docs/AI-HISTORY.md
+
 # OS metadata
 .DS_Store
 

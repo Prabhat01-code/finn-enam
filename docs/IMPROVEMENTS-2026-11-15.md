@@ -15,7 +15,7 @@ This report records the first audit-fix pass. The subsequent evaluation/comparis
 | Inbox categorisation | Capital-action meeting notices and auditor rotation corrected. Drawer can index original attachments. BSE aliases match indexed evidence. Reviewed HCL/Polycab results open from their associated filing. | Most older filings still show their exchange description until indexed. General attachment enrichment is on demand; automatic biography enrichment is deferred. |
 | Document coverage | 32 MB online bound, bounded retry/backoff, BSE alias recovery, capped-response splitting, staged passage revisions and recovery from obsolete failed records. DIXON annual report (520 pages) and four transcripts succeeded through the running Worker. Recovered HCL April transcript from issuer site. | Exchange completeness cannot be guaranteed. Local OCR is available; hosted OCR is not enabled. |
 | Mobile/continuity | Larger text and controls, reduced research header, visible volume ratios, company/query/tab URLs, retained reading context during generation and source-job recovery. | Browser QA is manual; CI currently covers code/build checks. |
-| Engineering/handoff | Formatted application code, removed broad application `any` types, clean scoped lint, regression tests and CI. Updated authentic filtered AI history and source manifest. | Reviewer access, GitHub delivery and final submission links await final deployment/publication. |
+| Engineering/handoff | Formatted application code, removed broad application `any` types, clean scoped lint, regression tests and CI. Updated source manifest. | Reviewer access, GitHub delivery and final submission links await final deployment/publication. |
 
 ## Verification
 

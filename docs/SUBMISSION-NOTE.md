@@ -12,7 +12,7 @@ Please find FINN, my prototype for the AI Engineer Build Challenge.
 - Short covering writeup: `docs/COVERING-WRITEUP.md`
 - Architecture and tradeoffs: `docs/ARCHITECTURE.md`
 - Evaluation: `docs/RELEASE-2026-11-15.md` and the accompanying production verification receipt
-- AI collaboration record: `docs/AI-HISTORY.md`
+- Coding tool: Codex. The development chat will be shared separately with the submission.
 
 FINN connects a portfolio attention inbox to primary-source company research. It uses real NSE disclosures, completed market observations, annual reports and earnings-call transcripts. GLM 5.3 Flash through Hyde generates cited narrative answers, while numerical questions and guidance outcomes use comparable facts and code calculations.
 
@@ -25,4 +25,4 @@ Prabhat Singh
 
 ---
 
-The earlier GitHub installation issue has been resolved for source publication. Review the repository, actual conversation export coverage, and recipient/subject against the original assignment before sending. No submission email has been sent.
+The earlier GitHub installation issue has been resolved for source publication. Review the repository, separately shared development chat, and recipient/subject against the original assignment before sending. No submission email has been sent.

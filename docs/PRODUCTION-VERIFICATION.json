@@ -1,0 +1,200 @@
+{
+  "deployment": {
+    "projectId": "appgprj_6af976f0c0348191ac26780ca7fd38f9",
+    "version": 4,
+    "commit": "b2290702e3847e70fe2e189bb5de0d24ae768fa1",
+    "url": "https://finn-prabhat-enam.shadowps-07.chatgpt.site",
+    "status": "succeeded",
+    "environmentRevision": 3,
+    "observedAt": "2026-11-15T14:50:20.771384+00:00"
+  },
+  "schedule": {
+    "id": "Automation_ff80491a91a8819180e5c9b421e67573",
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Kolkata:20261115T203000\nRRULE:FREQ=HOURLY;INTERVAL=1\nEND:VEVENT",
+    "timezone": "Asia/Kolkata",
+    "nextRun": "2026-11-15T20:30:00+05:30",
+    "lastRun": null,
+    "verification": "Writer and persisted readback verified manually. First scheduled occurrence not yet observed."
+  },
+  "checks": {
+    "deterministicTests": 67,
+    "typecheck": "passed",
+    "lint": "passed",
+    "productionBuild": "passed",
+    "desktop": "Published model answer and usage rendered",
+    "mobile": {
+      "viewport": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false
+    },
+    "retrieval": {
+      "keyword": 11,
+      "hybrid": 11,
+      "totalCases": 12,
+      "productionMode": "keyword",
+      "embeddingProviderConfigured": false
+    },
+    "browserVerifiedOnVersion": 3,
+    "browserNote": "Version 4 adds hourly queue notice/configuration and matching documentation; answer layout and CSS unchanged."
+  },
+  "limits": [
+    "Small development benchmarks, not general answer accuracy.",
+    "Hourly jobs may wait until the next schedule; source errors remain possible.",
+    "Generic tables require supported layouts; hosted OCR and universal verified guidance extraction are not implemented.",
+    "GitHub publication deferred; source ZIP is the selected handoff.",
+    "No submission email sent."
+  ],
+  "publicChecks": [
+    {
+      "route": "health",
+      "http": 200,
+      "status": "ok",
+      "modelUsage": null,
+      "cached": null
+    },
+    {
+      "route": "worker-instructions",
+      "http": 200,
+      "status": null,
+      "modelUsage": null,
+      "cached": null
+    },
+    {
+      "route": "worker",
+      "http": 403,
+      "status": null,
+      "modelUsage": null,
+      "cached": null
+    },
+    {
+      "route": "answer",
+      "http": 200,
+      "status": "answered",
+      "modelUsage": {
+        "requests": 2,
+        "durationMs": 4955,
+        "inputTokens": 5648,
+        "outputTokens": 695
+      },
+      "cached": false
+    },
+    {
+      "route": "answer",
+      "http": 200,
+      "status": "answered",
+      "modelUsage": null,
+      "cached": null
+    }
+  ],
+  "workerCheck": {
+    "jobStatus": "complete",
+    "browserStepRequests": 0,
+    "cycles": 7,
+    "coverage": {
+      "annualReports": 1,
+      "transcripts": 4,
+      "passages": 748,
+      "failed": 0
+    },
+    "heartbeatBefore": {
+      "active": false,
+      "lastSeen": null
+    },
+    "heartbeatAfter": {
+      "active": true,
+      "lastSeen": "2026-11-15T14:45:14.515Z"
+    },
+    "resultsPage": 9,
+    "financialMetrics": [
+      {
+        "name": "Revenue",
+        "current": 6431.99,
+        "previous": 6518.19,
+        "yearAgo": 4779.33
+      },
+      {
+        "name": "EBITDA",
+        "current": null,
+        "previous": null,
+        "yearAgo": null,
+        "note": "No unambiguous row extracted."
+      },
+      {
+        "name": "PBT",
+        "current": 472.62,
+        "previous": 392.29,
+        "yearAgo": 414.59
+      },
+      {
+        "name": "PAT",
+        "current": 349.22,
+        "previous": 289.71,
+        "yearAgo": 318.28,
+        "note": "Profit for the period, including non-controlling interests; not owners-attributable profit."
+      }
+    ]
+  },
+  "generatedComparison": {
+    "status": "answered",
+    "method": "model_generated",
+    "claims": 4,
+    "usage": {
+      "requests": 2,
+      "durationMs": 6456,
+      "inputTokens": 8460,
+      "outputTokens": 1366
+    },
+    "verifiedOnVersion": 3
+  },
+  "finalReadback": {
+    "at": "2026-11-15T14:51:12.039Z",
+    "worker": {
+      "active": false,
+      "lastSeen": "2026-11-15T14:45:14.515Z",
+      "scheduledEveryMinutes": 60
+    },
+    "havells": {
+      "coverage": {
+        "annualReports": 1,
+        "transcripts": 4,
+        "passages": 748,
+        "failed": 0
+      },
+      "results": [
+        {
+          "name": "Revenue",
+          "current": 6431.99,
+          "previous": 6518.19,
+          "yearAgo": 4779.33
+        },
+        {
+          "name": "EBITDA",
+          "current": null,
+          "previous": null,
+          "yearAgo": null,
+          "note": "No unambiguous row extracted."
+        },
+        {
+          "name": "PBT",
+          "current": 472.62,
+          "previous": 392.29,
+          "yearAgo": 414.59
+        },
+        {
+          "name": "PAT",
+          "current": 349.22,
+          "previous": 289.71,
+          "yearAgo": 318.28,
+          "note": "Profit for the period, including non-controlling interests; not owners-attributable profit."
+        }
+      ],
+      "cached": true
+    }
+  },
+  "secretScan": {
+    "sourceFiles": 211,
+    "buildFiles": 66,
+    "credentialMatches": 0
+  }
+}

@@ -1,0 +1,1663 @@
+{
+  "observedAt": "2026-11-15T14:41:22.330Z",
+  "corpusHash": "2ea5e9934d2d413d54c20038cdc8122126115ccb22d293f607152f02f00f250e",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embeddingMs": 265055,
+  "embeddingRequests": 0,
+  "paidModelCalls": 0,
+  "method": "Frozen real primary-source excerpts; 12 development cases, anchor recall@8, identical company/date/period filters, RRF k=60. Local semantic model, not the deployed chat provider. Not a broad answer-quality benchmark.",
+  "aggregate": {
+    "lexical": {
+      "meanRecallAt8": 0.9166666666666666,
+      "fullEvidenceCases": 11,
+      "prohibitedSources": 0
+    },
+    "semantic": {
+      "meanRecallAt8": 0.5,
+      "fullEvidenceCases": 6,
+      "prohibitedSources": 0
+    },
+    "hybrid": {
+      "meanRecallAt8": 0.9166666666666666,
+      "fullEvidenceCases": 11,
+      "prohibitedSources": 0
+    }
+  },
+  "results": [
+    {
+      "id": "hcl-guidance-exact",
+      "eligible": 51,
+      "requiredAnchors": 1,
+      "rankingMs": 9.000584000000003,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "The ERS segment grew by 4.1% QoQ and 2.1% YoY. HCLSoftware revenue for the quarter is $294 million, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 3,
+              "excerpt": "In the course of this call, certain statements that will be made are forward-looking, which involve "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 11,
+              "excerpt": "Now coming to the pipeline and the demand environment and outlook, our pipeline remains strong and i"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 22,
+              "excerpt": "So, our plan for Software is to continue to plan and rationalize the cost to align it with the growt"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Starting with the revenue performance, please n ote that all growth numbers quoted are in constant c"
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "The ERS segment grew by 4.1% QoQ and 2.1% YoY. HCLSoftware revenue for the quarter is $294 million, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 23,
+              "excerpt": "So I am just trying to understand, how long can this disconnect between ARR and the reported growth "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Starting with the revenue performance, please n ote that all growth numbers quoted are in constant c"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 4,
+              "excerpt": "8% YoY, which is the best measure of the health of this business, and it is growing."
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "As you would know, the revenue recognition for an on-premise term license vary based on the term of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Our EBIT is at $677 million, representing 18.2% of revenue. Adjusting for restructuring expenses of "
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "The ERS segment grew by 4.1% QoQ and 2.1% YoY. HCLSoftware revenue for the quarter is $294 million, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Starting with the revenue performance, please n ote that all growth numbers quoted are in constant c"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 4,
+              "excerpt": "Advanced AI revenue reached $219 million this quarter, up 28.4% sequentially and 78% YoY. And the an"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Moving on to vertical performance, our Q2 growth was broad- based, with 5 out of 7 verticals registe"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 22,
+              "excerpt": "So, our plan for Software is to continue to plan and rationalize the cost to align it with the growt"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hcl-acquisitions-paraphrase",
+      "eligible": 51,
+      "requiredAnchors": 1,
+      "rankingMs": 6.318499999999972,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 22,
+              "excerpt": "So what is the outlook here? The ARR would anyway also have benefited from the Jaspersoft acquisitio"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "As you would know, the revenue recognition for an on-premise term license vary based on the term of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 24,
+              "excerpt": "HCL Technologies Limited October 12, 2026 23 C Vijayakumar: We have not called out CTG revenue. The "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 22,
+              "excerpt": "So, our plan for Software is to continue to plan and rationalize the cost to align it with the growt"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 11,
+              "excerpt": "Now coming to the pipeline and the demand environment and outlook, our pipeline remains strong and i"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 5,
+              "excerpt": "Our EBIT margin was 18.2%, an improvement of 131 basis points sequentially and 71 basis points YoY, "
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 22,
+              "excerpt": "As Shiv said earlier that the revenue decline does not accurately reflect the underlying factors of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 23,
+              "excerpt": "So I am just trying to understand, how long can this disconnect between ARR and the reported growth "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "The ERS segment grew by 4.1% QoQ and 2.1% YoY. HCLSoftware revenue for the quarter is $294 million, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "As you would know, the revenue recognition for an on-premise term license vary based on the term of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 23,
+              "excerpt": "Is there any seasonality in the HPE CTG business, because the run rate of revenues seems to be lower"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 24,
+              "excerpt": "HCL Technologies Limited October 12, 2026 23 C Vijayakumar: We have not called out CTG revenue. The "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 18,
+              "excerpt": "I just want to add also that we have managed our cash conversion cycle very well despite headwinds f"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Starting with the revenue performance, please n ote that all growth numbers quoted are in constant c"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "As you would know, the revenue recognition for an on-premise term license vary based on the term of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 24,
+              "excerpt": "HCL Technologies Limited October 12, 2026 23 C Vijayakumar: We have not called out CTG revenue. The "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 22,
+              "excerpt": "So what is the outlook here? The ARR would anyway also have benefited from the Jaspersoft acquisitio"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Our EBIT is at $677 million, representing 18.2% of revenue. Adjusting for restructuring expenses of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 22,
+              "excerpt": "As Shiv said earlier that the revenue decline does not accurately reflect the underlying factors of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 5,
+              "excerpt": "Our EBIT margin was 18.2%, an improvement of 131 basis points sequentially and 71 basis points YoY, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hcl-cash-exact",
+      "eligible": 51,
+      "requiredAnchors": 1,
+      "rankingMs": 5.069041999999968,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 18,
+              "excerpt": "I just want to add also that we have managed our cash conversion cycle very well despite headwinds f"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Our EBIT is at $677 million, representing 18.2% of revenue. Adjusting for restructuring expenses of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 7,
+              "excerpt": "This is an important growth engine and a strong area of momentum. The opportunity spans the full ent"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 25,
+              "excerpt": "We obviously are focused on services and the annuity revenue that comes out of it. We're not directl"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 5,
+              "excerpt": "Our EBIT margin was 18.2%, an improvement of 131 basis points sequentially and 71 basis points YoY, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 16,
+              "excerpt": "ue to be shared as we implement or as we kind of integrate more and more of the AI frontier labs pro"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 9,
+              "excerpt": "Physical AI continues to deliver encouraging revenue growth across Robotics, IoT, and Edge AI, build"
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 18,
+              "excerpt": "I just want to add also that we have managed our cash conversion cycle very well despite headwinds f"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Moving on to vertical performance, our Q2 growth was broad- based, with 5 out of 7 verticals registe"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Our EBIT is at $677 million, representing 18.2% of revenue. Adjusting for restructuring expenses of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 25,
+              "excerpt": "HCL Technologies Limited October 12, 2026 24 companies like OpenAI or Anthropic would translate into"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Starting with the revenue performance, please n ote that all growth numbers quoted are in constant c"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "As you would know, the revenue recognition for an on-premise term license vary based on the term of "
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 18,
+              "excerpt": "I just want to add also that we have managed our cash conversion cycle very well despite headwinds f"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Our EBIT is at $677 million, representing 18.2% of revenue. Adjusting for restructuring expenses of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 5,
+              "excerpt": "Our EBIT margin was 18.2%, an improvement of 131 basis points sequentially and 71 basis points YoY, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 16,
+              "excerpt": "ue to be shared as we implement or as we kind of integrate more and more of the AI frontier labs pro"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 24,
+              "excerpt": "My first question is on the outlook. It looks like there is a sharp deceleration in the revenue grow"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 25,
+              "excerpt": "We obviously are focused on services and the annuity revenue that comes out of it. We're not directl"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 25,
+              "excerpt": "And last question is your comments, CVK, you made on margins, that operating efficiency, you will be"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hcl-cash-paraphrase",
+      "eligible": 51,
+      "requiredAnchors": 1,
+      "rankingMs": 5.616917000000058,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 18,
+              "excerpt": "I just want to add also that we have managed our cash conversion cycle very well despite headwinds f"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 5,
+              "excerpt": "Revenue per employee improved by 2.4% YoY, a clear sign that our AI strategy is improving productivi"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 3,
+              "excerpt": "In the course of this call, certain statements that will be made are forward-looking, which involve "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 16,
+              "excerpt": "ue to be shared as we implement or as we kind of integrate more and more of the AI frontier labs pro"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 24,
+              "excerpt": "My first question is on the outlook. It looks like there is a sharp deceleration in the revenue grow"
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Our EBIT is at $677 million, representing 18.2% of revenue. Adjusting for restructuring expenses of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 25,
+              "excerpt": "And last question is your comments, CVK, you made on margins, that operating efficiency, you will be"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 18,
+              "excerpt": "I just want to add also that we have managed our cash conversion cycle very well despite headwinds f"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "The ERS segment grew by 4.1% QoQ and 2.1% YoY. HCLSoftware revenue for the quarter is $294 million, "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "As you would know, the revenue recognition for an on-premise term license vary based on the term of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Starting with the revenue performance, please n ote that all growth numbers quoted are in constant c"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 25,
+              "excerpt": "HCL Technologies Limited October 12, 2026 24 companies like OpenAI or Anthropic would translate into"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "In terms of cash generation, over the last 12 months, Free Cash Flow has been at $1.78 billion, wher"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 18,
+              "excerpt": "I just want to add also that we have managed our cash conversion cycle very well despite headwinds f"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 3,
+              "excerpt": "In the course of this call, certain statements that will be made are forward-looking, which involve "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 24,
+              "excerpt": "My first question is on the outlook. It looks like there is a sharp deceleration in the revenue grow"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 14,
+              "excerpt": "Our EBIT is at $677 million, representing 18.2% of revenue. Adjusting for restructuring expenses of "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 5,
+              "excerpt": "Revenue per employee improved by 2.4% YoY, a clear sign that our AI strategy is improving productivi"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 25,
+              "excerpt": "And last question is your comments, CVK, you made on margins, that operating efficiency, you will be"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 16,
+              "excerpt": "ue to be shared as we implement or as we kind of integrate more and more of the AI frontier labs pro"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hcl-two-periods",
+      "eligible": 889,
+      "requiredAnchors": 2,
+      "rankingMs": 83.37070799999992,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-dac08c9eb661454215e2",
+              "page": 14,
+              "excerpt": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for F"
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 11,
+              "excerpt": "Now coming to guidance, our guidance for FY'27 is as follows. The revenue growth guidance for the fu"
+            },
+            {
+              "documentId": "doc-9ddccba7f5707de4f1d0",
+              "page": 13,
+              "excerpt": "Now an update on guidance. On the back of a standout quarter and sustained growth momentum, we are r"
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 11,
+              "excerpt": "We are seeing some of this impact already hurting the growth outlook in Europe while there are no br"
+            },
+            {
+              "documentId": "doc-aebe94916d38b46f2425",
+              "page": 55,
+              "excerpt": "Overall, FY26 marked a shift to repeatable, AI-first engineering solutions, underpinned by strong IP"
+            },
+            {
+              "documentId": "doc-9ddccba7f5707de4f1d0",
+              "page": 19,
+              "excerpt": "Would FY27 see faster growth than this year, let's wait until April to see where we are able to end "
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 4,
+              "excerpt": "We expect the impact to continue for rest of the calendar year as well, which is accounted for in th"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-dac08c9eb661454215e2",
+              "page": 14,
+              "excerpt": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for F"
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 11,
+              "excerpt": "Now coming to guidance, our guidance for FY'27 is as follows. The revenue growth guidance for the fu"
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 13,
+              "excerpt": "Here again, please note that all the growth numbers quoted are in constant currency. Starting with t"
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 12,
+              "excerpt": "This guidance does not include the two acquisitions, the Telecom Solutions Group from HPE that we an"
+            },
+            {
+              "documentId": "doc-aebe94916d38b46f2425",
+              "page": 463,
+              "excerpt": "Transactions with related parties during the normal course of business Significant influence Y ear e"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 12,
+              "excerpt": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%. "
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 15,
+              "excerpt": "Now on an update on our guidance, FY27 guidance. For FY27, constant currency revenue growth is expec"
+            },
+            {
+              "documentId": "doc-dac08c9eb661454215e2",
+              "page": 14,
+              "excerpt": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for F"
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 11,
+              "excerpt": "Now coming to guidance, our guidance for FY'27 is as follows. The revenue growth guidance for the fu"
+            },
+            {
+              "documentId": "doc-28ba859d63f83c8a62f0",
+              "page": 11,
+              "excerpt": "We are seeing some of this impact already hurting the growth outlook in Europe while there are no br"
+            },
+            {
+              "documentId": "doc-9ddccba7f5707de4f1d0",
+              "page": 13,
+              "excerpt": "Now an update on guidance. On the back of a standout quarter and sustained growth momentum, we are r"
+            },
+            {
+              "documentId": "doc-baf227e394b6f6be0659",
+              "page": 13,
+              "excerpt": "The ERS segment grew by 4.1% QoQ and 2.1% YoY. HCLSoftware revenue for the quarter is $294 million, "
+            },
+            {
+              "documentId": "doc-dac08c9eb661454215e2",
+              "page": 26,
+              "excerpt": "Shiv Walia: And Gaurav, on the margin’s guidelines, as we called out, our revenue as well as margin "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "polycab-capex-exact",
+      "eligible": 1079,
+      "requiredAnchors": 1,
+      "rankingMs": 65.09275000000002,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 5,
+              "excerpt": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, i"
+            },
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 6,
+              "excerpt": "During the quarter, wires growth outperformed cables, driven by pre -stocking by channel partners am"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 6,
+              "excerpt": "ure for the quarter stood at INR3.9 billion, taking the total capex for full financial year to appro"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 9,
+              "excerpt": "During FY26, we incurred capex of INR 14.8 billion, in line with our annual guidance of INR 12 billi"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 18,
+              "excerpt": "I14,799 Mn Capex in FY26 directed towards expanding and modernising our cables manufacturing facilit"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 214,
+              "excerpt": "Capex and Liquidity During the year under review, the Company incurred a capital expenditure of appr"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 4,
+              "excerpt": "What gives us confidence is the breadth of growth visible across the economy. GST collections contin"
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 11,
+              "excerpt": "If you look at the capacity addition plans of the transformer companies, they are pretty robust. If "
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 5,
+              "excerpt": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, i"
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 19,
+              "excerpt": "Now this is as high as your, say, FY30 guidance. So I mean, this is one-off or because of the season"
+            },
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 6,
+              "excerpt": "During the quarter, wires growth outperformed cables, driven by pre -stocking by channel partners am"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 70,
+              "excerpt": "Cash Reserves We will retain a portion of our cash as a balance sheet buffer to maintain flexibility"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 505,
+              "excerpt": "The Company includes within net debt, interest bearing loans and borrowings, lease liabilities and o"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 408,
+              "excerpt": "The Group includes within net debt, interest bearing loans and borrowings, lease liabilities and oth"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 16,
+              "excerpt": "And for FY27 capex, what will be the focus areas? And a separate question on that is how much the so"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 384,
+              "excerpt": "The Group doesn't expect the outcome of matters stated above to have a material adverse effect on th"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 5,
+              "excerpt": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, i"
+            },
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 6,
+              "excerpt": "During the quarter, wires growth outperformed cables, driven by pre -stocking by channel partners am"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 6,
+              "excerpt": "ure for the quarter stood at INR3.9 billion, taking the total capex for full financial year to appro"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 4,
+              "excerpt": "What gives us confidence is the breadth of growth visible across the economy. GST collections contin"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 9,
+              "excerpt": "During FY26, we incurred capex of INR 14.8 billion, in line with our annual guidance of INR 12 billi"
+            },
+            {
+              "documentId": "doc-8386e32c480425b569ad",
+              "page": 19,
+              "excerpt": "Revenue : Revenue from operations 3. Segment Revenue : Total income (external sales) excluding finan"
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 19,
+              "excerpt": "Now this is as high as your, say, FY30 guidance. So I mean, this is one-off or because of the season"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 70,
+              "excerpt": "Cash Reserves We will retain a portion of our cash as a balance sheet buffer to maintain flexibility"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "polycab-capex-paraphrase",
+      "eligible": 1079,
+      "requiredAnchors": 1,
+      "rankingMs": 54.72516699999994,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 6,
+              "excerpt": "During the quarter, wires growth outperformed cables, driven by pre -stocking by channel partners am"
+            },
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 5,
+              "excerpt": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, i"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 18,
+              "excerpt": "In a capital- intensive industry, how do you ensure these investments translate into long-term compe"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 6,
+              "excerpt": "ure for the quarter stood at INR3.9 billion, taking the total capex for full financial year to appro"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 214,
+              "excerpt": "Capex and Liquidity During the year under review, the Company incurred a capital expenditure of appr"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 9,
+              "excerpt": "During FY26, we incurred capex of INR 14.8 billion, in line with our annual guidance of INR 12 billi"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 4,
+              "excerpt": "What gives us confidence is the breadth of growth visible across the economy. GST collections contin"
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 5,
+              "excerpt": "Capital expenditure during the quarter amounted to INR 3.2 billion, reflecting our continued commitm"
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 8,
+              "excerpt": "Within the Wires & Cable segment, growth since the launch of this program has consistently exceeded "
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 16,
+              "excerpt": "This year itself in FY27, we are expecting around 17,000 circuit kilometre capacity addition. So def"
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 10,
+              "excerpt": "So if you look at period of FY20 to FY25, the average transmission line capacity addition was around"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 14,
+              "excerpt": "Do we have any capacity coming in anytime soon in FY27? And is there a possibility that we may run o"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 16,
+              "excerpt": "And for FY27 capex, what will be the focus areas? And a separate question on that is how much the so"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 7,
+              "excerpt": "The broader FMEG portfolio comprising fans, lighting, switches, switchgear, conduits, pipes and fitt"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 6,
+              "excerpt": "During the first half of the year, we incurred capital expenditures of INR 6.1 billion, reflecting o"
+            },
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 5,
+              "excerpt": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, i"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 5,
+              "excerpt": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, i"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 6,
+              "excerpt": "ure for the quarter stood at INR3.9 billion, taking the total capex for full financial year to appro"
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 10,
+              "excerpt": "So if you look at period of FY20 to FY25, the average transmission line capacity addition was around"
+            },
+            {
+              "documentId": "doc-a329cd206e93f6b36d9b",
+              "page": 6,
+              "excerpt": "During the quarter, wires growth outperformed cables, driven by pre -stocking by channel partners am"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 6,
+              "excerpt": "During the first half of the year, we incurred capital expenditures of INR 6.1 billion, reflecting o"
+            },
+            {
+              "documentId": "doc-fdadd373a7346f119602",
+              "page": 37,
+              "excerpt": "As the nation’s premier player and a leading global manufacturer, we are well-positioned to particip"
+            },
+            {
+              "documentId": "doc-ffed5ff85c254bce2ade",
+              "page": 8,
+              "excerpt": "Within the Wires & Cable segment, growth since the launch of this program has consistently exceeded "
+            },
+            {
+              "documentId": "doc-59ed4c66897046791800",
+              "page": 16,
+              "excerpt": "This year itself in FY27, we are expecting around 17,000 circuit kilometre capacity addition. So def"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "polycab-legal",
+      "eligible": 64,
+      "requiredAnchors": 1,
+      "rankingMs": 2.73341599999992,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "To sum up, our outlook remains unchanged. While commodity volatility, geopolitical developments, and"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "And with that, the kind of capex that UltraTech has put into this industry, the kind of revenue guid"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 16,
+              "excerpt": "Ashish Jain: So Aditya, my first question is on cable and wire margins. Like in the last 2, 3 quarte"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 10,
+              "excerpt": "I think in terms of the volume growth, as I alluded in my previous comments that cable and wires def"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 12,
+              "excerpt": "And it's a very important growth driver for us. It is doing exceptionally well for us. It is just th"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 14,
+              "excerpt": "Aditya Nathany: So Ashish, I think the growth is largely coming from the demand that we are getting "
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "I think, as I mentioned earlier, when you look into the margins, I think it's a confluence of four o"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "We would be happy to operate at a higher end of the guidance that we've given. But as you know, Uman"
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "To sum up, our outlook remains unchanged. While commodity volatility, geopolitical developments, and"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 14,
+              "excerpt": "First, with respect to the institutional segment, while obviously most of our sales are through the "
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "We do not expect any adverse or material impact on our financial or business operations arising from"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 15,
+              "excerpt": "We see a INR12.5 billion kind of line item in the cash flow statement. If you could explain the natu"
+            },
+            {
+              "documentId": "doc-8386e32c480425b569ad",
+              "page": 11,
+              "excerpt": "YoY decline was led by one - off gain in the EPC segment in Q 2 FY 26 ▪ The company continues to mai"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 16,
+              "excerpt": "Ashish Jain: So Aditya, my first question is on cable and wire margins. Like in the last 2, 3 quarte"
+            },
+            {
+              "documentId": "doc-8386e32c480425b569ad",
+              "page": 16,
+              "excerpt": " 1,30,941 1,21,010 1,05,937 Total Non-current Assets 64,733 61,493 53,676 Minority Interest 1,431 1,"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "I think, as I mentioned earlier, when you look into the margins, I think it's a confluence of four o"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "To sum up, our outlook remains unchanged. While commodity volatility, geopolitical developments, and"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 16,
+              "excerpt": "Ashish Jain: So Aditya, my first question is on cable and wire margins. Like in the last 2, 3 quarte"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 14,
+              "excerpt": "First, with respect to the institutional segment, while obviously most of our sales are through the "
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "And with that, the kind of capex that UltraTech has put into this industry, the kind of revenue guid"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "I think, as I mentioned earlier, when you look into the margins, I think it's a confluence of four o"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 12,
+              "excerpt": "And it's a very important growth driver for us. It is doing exceptionally well for us. It is just th"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "We would be happy to operate at a higher end of the guidance that we've given. But as you know, Uman"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "We do not expect any adverse or material impact on our financial or business operations arising from"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "polycab-risks-paraphrase",
+      "eligible": 64,
+      "requiredAnchors": 1,
+      "rankingMs": 1.968166999999994,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "To sum up, our outlook remains unchanged. While commodity volatility, geopolitical developments, and"
+            },
+            {
+              "documentId": "doc-8386e32c480425b569ad",
+              "page": 9,
+              "excerpt": "Polycab India Limited / Q2FY27 Earnings Presentation FMEG Delivers Record Double Digit Profitability"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 3,
+              "excerpt": "As we conclude the first half of FY27, I am pleased to share that Polycab has delivered its highest "
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 15,
+              "excerpt": "And secondly, on the revenue, like you alluded, H2 is also looking strong. So can we assume the quar"
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 15,
+              "excerpt": "And secondly, on the revenue, like you alluded, H2 is also looking strong. So can we assume the quar"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "We do not expect any adverse or material impact on our financial or business operations arising from"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "I think, as I mentioned earlier, when you look into the margins, I think it's a confluence of four o"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 6,
+              "excerpt": "Let me now turn to Slide 6 and discuss the performance of our Wires and Cables business. The Wires a"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 17,
+              "excerpt": "Aditya Nathany: I mean we would not like to give any guidance on that. We never share that kind of a"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 14,
+              "excerpt": "And it is very difficult to quantify the end market for a cable and a wire business simply because I"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 14,
+              "excerpt": "First, with respect to the institutional segment, while obviously most of our sales are through the "
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 9,
+              "excerpt": "So do you what is the downside risk that you see to your Project Spring targets in terms of the grow"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 15,
+              "excerpt": "And secondly, on the revenue, like you alluded, H2 is also looking strong. So can we assume the quar"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "To sum up, our outlook remains unchanged. While commodity volatility, geopolitical developments, and"
+            },
+            {
+              "documentId": "doc-8386e32c480425b569ad",
+              "page": 9,
+              "excerpt": "Polycab India Limited / Q2FY27 Earnings Presentation FMEG Delivers Record Double Digit Profitability"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 5,
+              "excerpt": "We do not expect any adverse or material impact on our financial or business operations arising from"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 3,
+              "excerpt": "As we conclude the first half of FY27, I am pleased to share that Polycab has delivered its highest "
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 11,
+              "excerpt": "I think, as I mentioned earlier, when you look into the margins, I think it's a confluence of four o"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 6,
+              "excerpt": "Let me now turn to Slide 6 and discuss the performance of our Wires and Cables business. The Wires a"
+            },
+            {
+              "documentId": "doc-2119d33fa2af9db9f227",
+              "page": 17,
+              "excerpt": "Aditya Nathany: I mean we would not like to give any guidance on that. We never share that kind of a"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "infy-pricing-pressure",
+      "eligible": 109,
+      "requiredAnchors": 1,
+      "rankingMs": 5.86525000000006,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 6,
+              "excerpt": "External Document © 2025 Infosys Limited 5 So if you look at our guidance, our our last gui dance wa"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 4,
+              "excerpt": "Based on our Q2 performance and revised outlook for rest of the year, our revenue growth guidance is"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 26,
+              "excerpt": "Based on our Q2 performance and revised outlook fo r the rest of the year, our revenue growth guidan"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 14,
+              "excerpt": "So, from that perspective, we do not really see a margin impact. If you see last many years -- last "
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 35,
+              "excerpt": "Jayesh Sanghrajka So Jonathan, if you look at what we have delivered over the last multiple years, w"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 36,
+              "excerpt": "Jayesh Sanghrajka And just to clarify the impact of all the headwinds that we see has been baked in,"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 29,
+              "excerpt": "EURS segment continues to see stable demand with client spending concentrated on targeted, high impa"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 27,
+              "excerpt": "Q2 operating margins were at 21%, decline of 0.1% sequentially. Major components of the changes are "
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 38,
+              "excerpt": "Salil Parekh So on that, what we see is any large transaction t oday has either some elements of AI "
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 26,
+              "excerpt": "External Document © 2026 Infosys Limited 3 As enterprises adopt AI at scale, another quarter of stro"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 47,
+              "excerpt": "That had an effect, even though the volume remains more similar, the revenue looks a little bit diff"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 5,
+              "excerpt": "So how many deals won will have AI element? And with AI jitters globally, is there a change in busin"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 19,
+              "excerpt": "But the real critical thing is where does the AI growth go, because that is where the leadership com"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 29,
+              "excerpt": "EURS segment continues to see stable demand with client spending concentrated on targeted, high impa"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 33,
+              "excerpt": "There is a broader uptick, as AI revenues has also gone from 8% to 10%, there is just more awareness"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 7,
+              "excerpt": "Salil Parekh So on the AI first, I think the AI revenues have been outstanding. As you pointed out, "
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 29,
+              "excerpt": "EURS segment continues to see stable demand with client spending concentrated on targeted, high impa"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 6,
+              "excerpt": "External Document © 2025 Infosys Limited 5 So if you look at our guidance, our our last gui dance wa"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 33,
+              "excerpt": "And then we have Retail, which is seeing a change in the segment vis-a-vis the client footprint that"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 27,
+              "excerpt": "Let me now turn to performance drivers and what it means for our outlook. Q2 revenues were $5,145 mn"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 40,
+              "excerpt": "External Document © 2026 Infosys Limited 17 existing legacy book that we are seeing, just like we sa"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 21,
+              "excerpt": "Rukmini Rao Salil, also in terms of the whole AI story that we are looking at, for you, when it come"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 42,
+              "excerpt": "External Document © 2026 Infosys Limited 19 and also the discussion on AI productivity, if you are t"
+            },
+            {
+              "documentId": "doc-b8e9a931ed54ee49a23f",
+              "page": 39,
+              "excerpt": "And we have examples where like for a bank in Europe, for a telco in the US, we made these changes i"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "infy-historical",
+      "eligible": 282,
+      "requiredAnchors": 1,
+      "rankingMs": 18.577249999999935,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 22,
+              "excerpt": "We also see normal seasonality as we plan this financial year in terms of guidance. With that, our r"
+            },
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 4,
+              "excerpt": "With that, our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms"
+            },
+            {
+              "documentId": "doc-c2197812675d15673eb2",
+              "page": 26,
+              "excerpt": "Driven by our H1 performance and outlook for the rest of the year, we are revising our FY25 revenue "
+            },
+            {
+              "documentId": "doc-c2197812675d15673eb2",
+              "page": 4,
+              "excerpt": "With our strong performance in Q2 and our current outlook, we have revised our revenue growth guidan"
+            },
+            {
+              "documentId": "doc-eab53c5893f93fe6284e",
+              "page": 27,
+              "excerpt": "Driven by our performance and outlook for the rest of the year, we are revising our FY'25 revenue gu"
+            },
+            {
+              "documentId": "doc-fe39830126b7c2ac7751",
+              "page": 23,
+              "excerpt": "External Document © 2024 Infosys Limited 5 Given our strong performance in Q1 and our current outloo"
+            },
+            {
+              "documentId": "doc-eab53c5893f93fe6284e",
+              "page": 5,
+              "excerpt": "On raising your revenue guidance to about 4.5%-5%, was in expected lines, but what is the implied gr"
+            },
+            {
+              "documentId": "doc-fe39830126b7c2ac7751",
+              "page": 5,
+              "excerpt": "Given our strong performance in Q1 and our current outlook, we have revised our revenue growth guida"
+            }
+          ]
+        },
+        "semantic": {
+          "recallAt8": 0,
+          "allRequiredEvidence": false,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-c2197812675d15673eb2",
+              "page": 26,
+              "excerpt": "Driven by our H1 performance and outlook for the rest of the year, we are revising our FY25 revenue "
+            },
+            {
+              "documentId": "doc-eab53c5893f93fe6284e",
+              "page": 27,
+              "excerpt": "Driven by our performance and outlook for the rest of the year, we are revising our FY'25 revenue gu"
+            },
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 4,
+              "excerpt": "With that, our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms"
+            },
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 22,
+              "excerpt": "We also see normal seasonality as we plan this financial year in terms of guidance. With that, our r"
+            },
+            {
+              "documentId": "doc-fe39830126b7c2ac7751",
+              "page": 23,
+              "excerpt": "We entered FY'25 focusing on key strategic priorities, including market share gains to accelerate re"
+            },
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 25,
+              "excerpt": "Our operating margin guidance for the year is 20% to 22%. Guidance for FY '25 does not factor in tod"
+            },
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 30,
+              "excerpt": "I think the guidance band for FY '25 is unchanged. So is there a timeline of when -- within which yo"
+            },
+            {
+              "documentId": "doc-c2197812675d15673eb2",
+              "page": 23,
+              "excerpt": "With a strong performance in Q2 and our current outlook, we have revised our revenue growth guidance"
+            }
+          ]
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": [
+            {
+              "documentId": "doc-c2197812675d15673eb2",
+              "page": 26,
+              "excerpt": "Driven by our H1 performance and outlook for the rest of the year, we are revising our FY25 revenue "
+            },
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 22,
+              "excerpt": "We also see normal seasonality as we plan this financial year in terms of guidance. With that, our r"
+            },
+            {
+              "documentId": "doc-3fff704a64ede509515b",
+              "page": 4,
+              "excerpt": "With that, our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms"
+            },
+            {
+              "documentId": "doc-eab53c5893f93fe6284e",
+              "page": 27,
+              "excerpt": "Driven by our performance and outlook for the rest of the year, we are revising our FY'25 revenue gu"
+            },
+            {
+              "documentId": "doc-c2197812675d15673eb2",
+              "page": 4,
+              "excerpt": "With our strong performance in Q2 and our current outlook, we have revised our revenue growth guidan"
+            },
+            {
+              "documentId": "doc-fe39830126b7c2ac7751",
+              "page": 23,
+              "excerpt": "External Document © 2024 Infosys Limited 5 Given our strong performance in Q1 and our current outloo"
+            },
+            {
+              "documentId": "doc-c2197812675d15673eb2",
+              "page": 23,
+              "excerpt": "With a strong performance in Q2 and our current outlook, we have revised our revenue growth guidance"
+            },
+            {
+              "documentId": "doc-eab53c5893f93fe6284e",
+              "page": 4,
+              "excerpt": "Based on our strong performance in this quarter and our view for the rest of this financial year, we"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hcl-before-available",
+      "eligible": 0,
+      "requiredAnchors": 0,
+      "rankingMs": 0.07170799999994415,
+      "metrics": {
+        "lexical": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": []
+        },
+        "semantic": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": []
+        },
+        "hybrid": {
+          "recallAt8": 1,
+          "allRequiredEvidence": true,
+          "prohibitedSources": 0,
+          "receipts": []
+        }
+      }
+    }
+  ]
+}

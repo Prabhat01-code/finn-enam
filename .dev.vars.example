@@ -1,0 +1,22 @@
+# Copy to .dev.vars for local development. Never commit a real key.
+HYDE_API_KEY=
+HYDE_MODEL=hyde/glm-5.3-flash
+
+# Optional: same random secret (32+ characters) in server and unattended runner.
+FINN_MONITOR_KEY=
+
+# Optional semantic retrieval. Hyde chat configuration is not an embedding model.
+# Use a documented OpenAI-compatible embedding provider; no key is bundled.
+FINN_EMBEDDING_BASE_URL=
+FINN_EMBEDDING_API_KEY=
+FINN_EMBEDDING_MODEL=
+FINN_EMBEDDING_VERSION=1
+FINN_EMBEDDING_DAILY_BATCHES=100
+FINN_HYBRID_ENABLED=false
+
+# Hosted cloud worker: SHA-256 digest of existing owner-only Sites service token.
+# Configure through Sites secret storage; never put the service token in this file.
+# FINN_SERVICE_TOKEN_SHA256=
+
+# Hosted queue notice; match the actual configured schedule, leave unset locally.
+# FINN_WORKER_INTERVAL_MINUTES=60

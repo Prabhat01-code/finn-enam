@@ -1,0 +1,82 @@
+{
+  "observedAt": "2026-11-15",
+  "deterministicTests": 67,
+  "modelRuns": [
+    {
+      "route": "answer",
+      "question": {
+        "symbol": "INFY",
+        "question": "What business does Infosys operate, according to its annual report?"
+      },
+      "http": 200,
+      "method": null,
+      "status": "answered",
+      "claims": 4,
+      "usage": {
+        "requests": 2,
+        "durationMs": 3686,
+        "inputTokens": 5308,
+        "outputTokens": 564
+      },
+      "error": null
+    },
+    {
+      "route": "comparison",
+      "question": {
+        "symbol": "INFY",
+        "focus": "demand"
+      },
+      "http": 200,
+      "method": "model_generated",
+      "status": "answered",
+      "claims": 4,
+      "usage": {
+        "requests": 2,
+        "durationMs": 6758,
+        "inputTokens": 8021,
+        "outputTokens": 1304
+      },
+      "error": null
+    }
+  ],
+  "unattendedHavells": {
+    "coverage": {
+      "annualReports": 1,
+      "transcripts": 4,
+      "passages": 748,
+      "failed": 0
+    },
+    "metrics": [
+      {
+        "name": "Revenue",
+        "current": 6431.99,
+        "previous": 6518.19,
+        "yearAgo": 4779.33
+      },
+      {
+        "name": "EBITDA",
+        "current": null,
+        "previous": null,
+        "yearAgo": null,
+        "note": "No unambiguous row extracted."
+      },
+      {
+        "name": "PBT",
+        "current": 472.62,
+        "previous": 392.29,
+        "yearAgo": 414.59
+      },
+      {
+        "name": "PAT",
+        "current": 349.22,
+        "previous": 289.71,
+        "yearAgo": 318.28,
+        "note": "Profit for the period, including non-controlling interests; not owners-attributable profit."
+      }
+    ],
+    "evidencePage": 9,
+    "pdfSha256": "aa369a8d5be0f040b6b7d20f858fa8c2841a0b634d748253503750e5f83953b0",
+    "quarterCards": "numbers_only"
+  },
+  "limits": "Development checks, not a general accuracy estimate. Production verification is supplied separately after publishing."
+}

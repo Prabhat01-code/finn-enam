@@ -1,0 +1,22 @@
+{
+  "observedAt": "2026-11-15T14:38:15.106Z",
+  "status": "passed",
+  "numericalCompanies": 3,
+  "falsePremiseWithheld": true,
+  "historicalReplay": true,
+  "cacheReuse": true,
+  "portfolioUnchanged": true,
+  "workerAuthorization": true,
+  "jobOwnership": true,
+  "unattendedCompany": {
+    "symbol": "HAVELLS",
+    "status": "complete",
+    "coverage": {
+      "annualReports": 1,
+      "transcripts": 4,
+      "passages": 748,
+      "failed": 0
+    }
+  },
+  "chargedModelCalls": 0
+}

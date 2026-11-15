@@ -1,0 +1,9 @@
+{
+  "observedAt": "2026-11-15T14:38:15.620Z",
+  "queuedAt": "2026-11-15T14:38:15.370Z",
+  "status": "passed",
+  "workerRestart": true,
+  "expiredLeaseRecovered": true,
+  "browserStepRequests": 0,
+  "finalJobStatus": "complete"
+}

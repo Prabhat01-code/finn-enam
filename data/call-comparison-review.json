@@ -1,0 +1,198 @@
+{
+  "reviewedAt": "2026-11-15T12:38:54.184167+00:00",
+  "scope": "Latest two saved call dates, not proof of exhaustive exchange coverage. Infosys pair are media results calls.",
+  "publicationCaveat": "All six current call PDFs have unknown exchange publication times. Call dates are verified; do not substitute them for historical availability.",
+  "observations": [
+    {
+      "id": "infy-fy27-revenue-guidance",
+      "symbol": "INFY",
+      "classification": "changed",
+      "topic": "FY27 constant-currency revenue growth guidance",
+      "before": "1.5\u20133%",
+      "after": "1\u20132%",
+      "interpretation": "Both endpoints reduced for the same annual target. This is revised guidance, not an achieved full-year result.",
+      "beforeEvidence": {
+        "documentId": "doc-bdc83ce116f1336145a1",
+        "callDate": "2026-07-23",
+        "page": 6,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf#page=6",
+        "quote": "With our Q1 results and a view for the rest of the financial year, we are changing our revenue growth guidance to 1.5% to 3% Y-on-Y growth in constant currency terms.",
+        "speaker": "Salil Parekh",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      },
+      "afterEvidence": {
+        "documentId": "doc-b8e9a931ed54ee49a23f",
+        "callDate": "2026-10-23",
+        "page": 4,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7982fc61-7765-4981-ab3d-6aec36ba2137.pdf#page=4",
+        "quote": "Based on our Q2 performance and revised outlook for rest of the year, our revenue growth guidance is 1% to 2% YoY .in constant currency terms.",
+        "speaker": "Salil Parekh",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      }
+    },
+    {
+      "id": "infy-fy27-margin-guidance",
+      "symbol": "INFY",
+      "classification": "unchanged",
+      "topic": "FY27 operating margin guidance",
+      "before": "20\u201322%",
+      "after": "20\u201322%",
+      "interpretation": "The annual margin range was explicitly retained even as revenue guidance changed.",
+      "beforeEvidence": {
+        "documentId": "doc-bdc83ce116f1336145a1",
+        "callDate": "2026-07-23",
+        "page": 6,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf#page=6",
+        "quote": "Our operating margin guidance remains the same at 20% to 22% operating margin.",
+        "speaker": "Salil Parekh",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      },
+      "afterEvidence": {
+        "documentId": "doc-b8e9a931ed54ee49a23f",
+        "callDate": "2026-10-23",
+        "page": 4,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7982fc61-7765-4981-ab3d-6aec36ba2137.pdf#page=4",
+        "quote": "Our operating margin guidance remains at 20% to 22% for the year.",
+        "speaker": "Salil Parekh",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      }
+    },
+    {
+      "id": "hcl-fy27-revenue-guidance-basis",
+      "symbol": "HCLTECH",
+      "classification": "not_comparable",
+      "topic": "FY27 constant-currency company revenue growth guidance",
+      "before": "1\u20134%, organic and excluding acquisitions",
+      "after": "2.5\u20134%, including acquisitions",
+      "interpretation": "The range changed with its acquisition basis. Do not describe this as a like-for-like organic guidance upgrade. The October CFO explicitly says the organic midpoint is broadly unchanged.",
+      "beforeEvidence": {
+        "documentId": "doc-dac08c9eb661454215e2",
+        "callDate": "2026-07-13",
+        "page": 14,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/11be9fba-0308-4756-a474-e4f2903fdaac.pdf#page=14",
+        "quote": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for FY27. The guidance is organic growth guidance and does not include acquisitions including Jaspersoft.",
+        "speaker": "C. Vijayakumar",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      },
+      "afterEvidence": {
+        "documentId": "doc-baf227e394b6f6be0659",
+        "callDate": "2026-10-12",
+        "page": 15,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf#page=15",
+        "quote": "For FY27, constant currency revenue growth is expected to be between 3% to 4% for the Services business and at the Company level the revenue growth is expected to be between 2.5% to 4%. The full -year revenue growth guidance now includes inorganic contribution of 62 basis points for Services and 87 basis points for the Company. This implies that midpoint of our organic growth guidance both at services and company level is broadly unchanged.",
+        "speaker": "Shiv Walia",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      }
+    },
+    {
+      "id": "hcl-fy27-margin-guidance",
+      "symbol": "HCLTECH",
+      "classification": "unchanged",
+      "topic": "FY27 EBIT margin guidance",
+      "before": "17.5\u201318.5%",
+      "after": "17.5\u201318.5%",
+      "interpretation": "The stated EBIT margin guidance range remains unchanged. The financial year is still incomplete.",
+      "beforeEvidence": {
+        "documentId": "doc-dac08c9eb661454215e2",
+        "callDate": "2026-07-13",
+        "page": 14,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/11be9fba-0308-4756-a474-e4f2903fdaac.pdf#page=14",
+        "quote": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for FY27.",
+        "speaker": "C. Vijayakumar",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      },
+      "afterEvidence": {
+        "documentId": "doc-baf227e394b6f6be0659",
+        "callDate": "2026-10-12",
+        "page": 12,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf#page=12",
+        "quote": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%.",
+        "speaker": "C. Vijayakumar",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      }
+    },
+    {
+      "id": "polycab-fmeg-profitability",
+      "symbol": "POLYCAB",
+      "classification": "changed",
+      "topic": "FMEG quarterly EBIT margin",
+      "before": "8% in Q1 FY27",
+      "after": "10.1% in Q2 FY27",
+      "interpretation": "Quarterly reported segment EBIT margin improved; do not compare this EBIT actual to its FY2030 EBITDA target as a target-achievement claim.",
+      "beforeEvidence": {
+        "documentId": "doc-59ed4c66897046791800",
+        "callDate": "2026-07-16",
+        "page": 6,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf#page=6",
+        "quote": "EBIT margins for the quarter were 8%, very much in line with the milestones laid out under Project Spring, where we target EBITDA margins of 8% to 10% by FY 2030.",
+        "speaker": "Shashank Yagnick",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      },
+      "afterEvidence": {
+        "documentId": "doc-2119d33fa2af9db9f227",
+        "callDate": "2026-10-15",
+        "page": 7,
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf#page=7",
+        "quote": "The segment also achieved a major profitability milestone, with EBIT margins crossing the double-digit mark for the first time and recording a 10.1% margin during the quarter.",
+        "speaker": "Aditya Nathany",
+        "speakerRole": "management",
+        "publishedAt": null,
+        "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+      }
+    }
+  ],
+  "negativeComparison": {
+    "id": "polycab-capex-period-mismatch",
+    "symbol": "POLYCAB",
+    "classification": "not_comparable",
+    "topic": "Capex reporting windows",
+    "interpretation": "INR3.2bn is one quarter; INR6.1bn is the first half. Do not claim quarterly capex nearly doubled from the two reported figures. Derived Q2 capex requires explicit deterministic subtraction and matching basis.",
+    "beforeEvidence": {
+      "documentId": "doc-59ed4c66897046791800",
+      "callDate": "2026-07-16",
+      "page": 5,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf#page=5",
+      "quote": "Capital expenditure during the quarter amounted to INR 3.2 billion, reflecting our continued commitment to building capacity and strengthening future growth drivers.",
+      "speaker": "Shashank Yagnick",
+      "speakerRole": "management",
+      "publishedAt": null,
+      "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+    },
+    "afterEvidence": {
+      "documentId": "doc-2119d33fa2af9db9f227",
+      "callDate": "2026-10-15",
+      "page": 6,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf#page=6",
+      "quote": "During the first half of the year, we incurred capital expenditures of INR 6.1 billion, reflecting our ongoing investments in capacity expansion, supply chain capabilities and future growth platforms.",
+      "speaker": "Aditya Nathany",
+      "speakerRole": "management",
+      "publishedAt": null,
+      "method": "Quote checked against locally extracted complete primary PDF page; speaker traced from preceding turn and opening roster."
+    }
+  },
+  "parserFindings": [
+    "INFY July p6 incorrectly labelled Corporate Communications JOURNALISTS / analyst due to colon-free speaker names and roster leakage. Primary text establishes Salil Parekh.",
+    "INFY October p4 labelled CORPORATE PARTICIPANTS / unknown; primary text establishes Salil Parekh.",
+    "POLYCAB IR speakers Shashank Yagnick and Aditya Nathany are unknown in snapshot although opening p3 establishes their roles.",
+    "No keyword absence in sampled passages can establish a new or removed risk; phrase as newly retrieved unless whole document support exists."
+  ],
+  "parserReviewNote": "Colon-free Infosys turn labels corrected by parser v4 and reindexed. These observations are primary-source review fixtures, not a generated model answer."
+}

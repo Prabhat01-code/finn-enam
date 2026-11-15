@@ -1,0 +1,140 @@
+{
+  "ledger": {
+    "period": "FY25",
+    "basis": "Constant currency",
+    "finalLow": 4.5,
+    "finalHigh": 5,
+    "actual": 4.2,
+    "description": "Infosys revised its full-year revenue growth outlook three times. The completed year lets us compare the final target with a like-for-like actual.",
+    "interpretation": "The reported 4.2% growth exceeded the original 1\u20133% range, but finished 0.3 percentage points below the final 4.5\u20135% range. The revisions are one evolving annual target, not four independent promises.",
+    "method": "Full-year consolidated revenue growth, constant-currency basis, year ended 31 March 2025. Publication dates use the transcript filing cover; the timeline shows the statement dates.",
+    "asOf": "2025-04-22T18:29:59Z",
+    "revisions": [
+      {
+        "date": "2024-04-18",
+        "low": 1,
+        "high": 3,
+        "label": "Initial outlook",
+        "speaker": "Salil Parekh \u00b7 CEO",
+        "evidence": {
+          "documentId": "doc-3fff704a64ede509515b",
+          "title": "Infosys management press conference and earnings call \u00b7 Apr 2024",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77f16d60-73b2-4877-80fb-c641f2529a70.pdf",
+          "page": 4,
+          "text": "our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms.",
+          "publishedAt": "2024-04-23T18:29:59Z",
+          "type": "transcript"
+        }
+      },
+      {
+        "date": "2024-07-18",
+        "low": 3,
+        "high": 4,
+        "label": "Raised",
+        "speaker": "Salil Parekh \u00b7 CEO",
+        "evidence": {
+          "documentId": "doc-fe39830126b7c2ac7751",
+          "title": "Infosys management press conference and earnings call \u00b7 Jul 2024",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/25353afa-0919-47a5-bd94-d149fef7d700.pdf",
+          "page": 5,
+          "text": "we have revised our revenue growth guidance for the full financial year to 3% to 4% growth in constant currency terms.",
+          "publishedAt": "2024-07-23T18:29:59Z",
+          "type": "transcript"
+        }
+      },
+      {
+        "date": "2024-10-17",
+        "low": 3.75,
+        "high": 4.5,
+        "label": "Raised again",
+        "speaker": "Salil Parekh \u00b7 CEO",
+        "evidence": {
+          "documentId": "doc-c2197812675d15673eb2",
+          "title": "Infosys management press conference and earnings call \u00b7 Oct 2024",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/166a1b43-d9c7-48a5-b93a-201cd0c324b6.pdf",
+          "page": 4,
+          "text": "The new guidance is 3.75% to 4.5% growth in constant currency for the full year.",
+          "publishedAt": "2024-10-22T18:29:59Z",
+          "type": "transcript"
+        }
+      },
+      {
+        "date": "2025-01-16",
+        "low": 4.5,
+        "high": 5,
+        "label": "Final revision",
+        "speaker": "Salil Parekh \u00b7 CEO",
+        "evidence": {
+          "documentId": "doc-eab53c5893f93fe6284e",
+          "title": "Infosys management press conference and earnings call \u00b7 Jan 2025",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ba0eb28e-bc2c-46d4-b945-9f4c67091850.pdf",
+          "page": 4,
+          "text": "we are revising our revenue growth guidance to growth of 4.5%-5% in constant currency terms.",
+          "publishedAt": "2025-01-21T18:29:59Z",
+          "type": "transcript"
+        }
+      }
+    ],
+    "actualEvidence": {
+      "documentId": "doc-d283ccfcecd166568bf1",
+      "title": "Infosys management press conference and earnings call \u00b7 Apr 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8c8bbc00-087d-4d75-9171-d37a3f83a170.pdf",
+      "page": 4,
+      "text": "4.2% growth, constant currency terms, 21.1% operating margin",
+      "publishedAt": "2025-04-22T18:29:59Z",
+      "type": "transcript"
+    }
+  },
+  "results": {
+    "period": "Q4 FY25",
+    "scope": "Consolidated",
+    "currency": "INR",
+    "unit": "crore",
+    "basis": "IFRS \u00b7 quarter-only values",
+    "currentLabel": "MAR 2025",
+    "previousLabel": "DEC 2024",
+    "yearAgoLabel": "MAR 2024",
+    "metrics": [
+      {
+        "name": "Revenue",
+        "current": 40925,
+        "previous": 41764,
+        "yearAgo": 37923,
+        "note": "Reported"
+      },
+      {
+        "name": "EBITDA",
+        "current": null,
+        "previous": null,
+        "yearAgo": null,
+        "note": "Not reported in this table"
+      },
+      {
+        "name": "PBT",
+        "current": 9663,
+        "previous": 9670,
+        "yearAgo": 10240,
+        "note": "Before income taxes"
+      },
+      {
+        "name": "PAT",
+        "current": 7033,
+        "previous": 6806,
+        "yearAgo": 7969,
+        "note": "After minority interest"
+      }
+    ],
+    "evidence": [
+      {
+        "documentId": "doc-f572c75144e5e94d236a",
+        "title": "Infosys Q4 FY25 fact sheet \u00b7 quarterly consolidated INR table",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_17042025162119_BM_Outcome_April172025.pdf",
+        "page": 22,
+        "text": "INR crore; IFRS consolidated, three months ended. March 2025 / December 2024 / March 2024: Revenue 40,925 / 41,764 / 37,923; profit before income taxes 9,663 / 9,670 / 10,240; net profit after minority interest 7,033 / 6,806 / 7,969. EBITDA is not reported in this table. Values transcribed from PDF page 22 (Fact Sheet page 4).",
+        "publishedAt": "2025-04-17T10:53:14.000Z",
+        "type": "results",
+        "verbatim": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "reviewedOn": "2026-11-15",
+  "method": "Primary PDFs downloaded and extracted with pypdf. Financial tables visually inspected with pypdfium2 rendering. Document-date assertions come from the covers and are separate from verified publication timestamps.",
+  "companies": [
+    {
+      "symbol": "POLYCAB",
+      "guidance": {
+        "metric": "Capital expenditure",
+        "scope": "Company-wide",
+        "basis": "Reported annual capex under Project Spring",
+        "unit": "INR billion",
+        "period": "FY26",
+        "periodEnd": "2026-03-31",
+        "low": 12,
+        "high": 16,
+        "actual": 14.8,
+        "statementDate": "2026-01-16",
+        "actualStatementDate": "2026-05-06",
+        "speaker": "Shashank Yagnick",
+        "status": "met",
+        "note": "Compares the annual FY26 spending target with full-year spending, not the 9M interim total. Annual capex budget achievement does not prove capacity commissioning or return on investment.",
+        "targetEvidence": {
+          "documentId": "doc-a329cd206e93f6b36d9b",
+          "title": "Earnings-call transcript \u00b7 Jan 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+          "page": 5,
+          "text": "Capital expenditure for the quarter was \u20b9 3.4 billion, taking the 9M FY26 total to \u20b9 10.9 billion, in-line with our Project Spring guidance of investing \u20b9 12 billion to \u20b9 16 billion annually through FY30.",
+          "verbatim": true,
+          "publishedAt": null,
+          "type": "transcript"
+        },
+        "actualEvidence": {
+          "documentId": "doc-ffed5ff85c254bce2ade",
+          "title": "Earnings-call transcript \u00b7 May 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+          "page": 9,
+          "text": "During FY26, we incurred capex of INR 14.8 billion, in line with our annual guidance of INR 12 billion to INR 16 billion per annum.",
+          "verbatim": true,
+          "publishedAt": null,
+          "type": "transcript"
+        }
+      },
+      "results": {
+        "period": "Q2 FY27",
+        "scope": "Consolidated",
+        "basis": "Company earnings presentation; EBITDA excludes other income; PAT excludes exceptional items and discontinued operations",
+        "currency": "INR",
+        "unit": "million",
+        "currentLabel": "Q2 FY27",
+        "previousLabel": "Q1 FY27",
+        "yearAgoLabel": "Q2 FY26",
+        "metrics": [
+          {
+            "name": "Revenue",
+            "current": 98989,
+            "previous": 82097,
+            "yearAgo": 64772
+          },
+          {
+            "name": "EBITDA",
+            "current": 14225,
+            "previous": 11362,
+            "yearAgo": 10207
+          },
+          {
+            "name": "PBT",
+            "current": 13062,
+            "previous": 10582,
+            "yearAgo": 9210
+          },
+          {
+            "name": "PAT",
+            "current": 9900,
+            "previous": 7967,
+            "yearAgo": 6930
+          }
+        ],
+        "evidence": [
+          {
+            "documentId": "doc-8386e32c480425b569ad",
+            "title": "Polycab India Limited has informed the Exchange about Earnings Presentation on Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
+            "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf",
+            "page": 15,
+            "text": "Normalized transcription of the consolidated P&L table. Q2 FY27 / Q1 FY27 / Q2 FY26, INR million: Revenue 98,989 / 82,097 / 64,772; EBITDA 14,225 / 11,362 / 10,207; PBT 13,062 / 10,582 / 9,210; PAT 9,900 / 7,967 / 6,930.",
+            "verbatim": false,
+            "publishedAt": "2026-10-15T08:22:19.000Z",
+            "type": "results"
+          }
+        ],
+        "definitionSource": {
+          "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf",
+          "page": 19
+        }
+      }
+    },
+    {
+      "symbol": "HCLTECH",
+      "guidance": {
+        "metric": "Revenue growth",
+        "scope": "Consolidated company",
+        "basis": "Constant currency, includes acquisitions",
+        "unit": "percent",
+        "period": "FY27",
+        "periodEnd": "2027-03-31",
+        "low": 2.5,
+        "high": 4,
+        "actual": null,
+        "statementDate": "2026-10-12",
+        "speaker": "Shiv Walia, CFO",
+        "status": "pending",
+        "note": "FY27 is not complete as of 15 November 2026. Quarterly results are not comparable to an annual growth target. July guidance excluded acquisitions; October company-level guidance includes 87 basis points inorganic contribution, so do not compare ranges without preserving the basis change.",
+        "targetEvidence": {
+          "documentId": "doc-baf227e394b6f6be0659",
+          "title": "Earnings-call transcript \u00b7 Oct 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf",
+          "page": 15,
+          "text": "For FY27, constant currency revenue growth is expected to be between 3% to 4% for the Services business and at the Company level the revenue growth is expected to be between 2.5% to 4%. The full -year revenue growth guidance now includes inorganic contribution of 62 basis points for Services and 87 basis points for the Company.",
+          "verbatim": true,
+          "publishedAt": null,
+          "type": "transcript"
+        },
+        "actualEvidence": null
+      },
+      "results": {
+        "period": "Q2 FY27",
+        "scope": "Consolidated",
+        "basis": "Ind AS; PAT attributable to owners of the company",
+        "currency": "INR",
+        "unit": "crore",
+        "currentLabel": "Q2 FY27",
+        "previousLabel": "Q1 FY27",
+        "yearAgoLabel": "Q2 FY26",
+        "metrics": [
+          {
+            "name": "Revenue",
+            "current": 35620,
+            "previous": 34579,
+            "yearAgo": 31942
+          },
+          {
+            "name": "EBITDA",
+            "current": null,
+            "previous": null,
+            "yearAgo": null,
+            "note": "Not directly reported; EBIT has not been substituted."
+          },
+          {
+            "name": "PBT",
+            "current": 6467,
+            "previous": 6108,
+            "yearAgo": 5702
+          },
+          {
+            "name": "PAT",
+            "current": 5132,
+            "previous": 4624,
+            "yearAgo": 4235
+          }
+        ],
+        "evidence": [
+          {
+            "documentId": "doc-f84f09361ca35e7d2913",
+            "title": "HCL Technologies Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+            "url": "https://nsearchives.nseindia.in/corporate/HCLTECH_12102026165747_FinancialResults.pdf",
+            "page": 2,
+            "text": "Visually checked transcription of Consolidated Statement of Financial Results as per Ind AS. Three months ended 30 September 2026 / 30 June 2026 / 30 September 2025, INR crore: Revenue from operations 35,620 / 34,579 / 31,942; PBT 6,467 / 6,108 / 5,702; PAT attributable to owners 5,132 / 4,624 / 4,235. EBITDA is not directly reported in this table.",
+            "verbatim": false,
+            "publishedAt": "2026-10-12T11:28:53.000Z",
+            "type": "results"
+          }
+        ]
+      }
+    }
+  ]
+}

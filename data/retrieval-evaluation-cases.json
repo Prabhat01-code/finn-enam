@@ -1,0 +1,14 @@
+[
+  {"id":"hcl-guidance-exact","symbol":"HCLTECH","question":"What is the FY27 company revenue growth guidance?","period":"Q2 FY27","anchors":[{"documentId":"doc-baf227e394b6f6be0659","page":15,"text":"inorganic contribution"}]},
+  {"id":"hcl-acquisitions-paraphrase","symbol":"HCLTECH","question":"Does the annual sales outlook count purchased operations?","period":"Q2 FY27","anchors":[{"documentId":"doc-baf227e394b6f6be0659","page":15,"text":"inorganic contribution"}]},
+  {"id":"hcl-cash-exact","symbol":"HCLTECH","question":"Operating cash flow to net income conversion","period":"Q2 FY27","anchors":[{"documentId":"doc-baf227e394b6f6be0659","page":15,"text":"conversion is 95%"}]},
+  {"id":"hcl-cash-paraphrase","symbol":"HCLTECH","question":"Are accounting earnings turning into spendable money?","period":"Q2 FY27","anchors":[{"documentId":"doc-baf227e394b6f6be0659","page":15,"text":"conversion is 95%"}]},
+  {"id":"hcl-two-periods","symbol":"HCLTECH","question":"How did the treatment of acquisitions in the FY27 revenue growth guidance change between July and October?","anchors":[{"documentId":"doc-dac08c9eb661454215e2","page":14,"text":"does not include acquisitions"},{"documentId":"doc-baf227e394b6f6be0659","page":15,"text":"inorganic contribution"}]},
+  {"id":"polycab-capex-exact","symbol":"POLYCAB","question":"What was FY26 capital expenditure against annual guidance?","anchors":[{"documentId":"doc-ffed5ff85c254bce2ade","page":9,"text":"capex of INR 14.8 billion"}]},
+  {"id":"polycab-capex-paraphrase","symbol":"POLYCAB","question":"How much did the factory build-out consume during FY26?","anchors":[{"documentId":"doc-ffed5ff85c254bce2ade","page":9,"text":"capex of INR 14.8 billion"}]},
+  {"id":"polycab-legal","symbol":"POLYCAB","question":"Has the insolvency admission against Asier Metals been put on hold?","period":"Q2 FY27","anchors":[{"documentId":"doc-2119d33fa2af9db9f227","page":5,"text":"kept in abeyance"}]},
+  {"id":"polycab-risks-paraphrase","symbol":"POLYCAB","question":"Which outside disruptions could cause quarterly volatility?","period":"Q2 FY27","anchors":[{"documentId":"doc-2119d33fa2af9db9f227","page":5,"text":"commodity volatility"}]},
+  {"id":"infy-pricing-pressure","symbol":"INFY","question":"Why is the sales outlook weaker despite artificial intelligence orders?","period":"Q2 FY27","anchors":[{"documentId":"doc-b8e9a931ed54ee49a23f","page":6,"text":"pricing pressure"}]},
+  {"id":"infy-historical","symbol":"INFY","question":"What was the final FY25 revenue growth guidance?","asOf":"2025-02-01T00:00:00Z","anchors":[{"documentId":"doc-eab53c5893f93fe6284e","page":4,"text":"4.5%"}]},
+  {"id":"hcl-before-available","symbol":"HCLTECH","question":"What is the FY27 revenue guidance?","asOf":"2025-01-01T00:00:00Z","anchors":[]}
+]

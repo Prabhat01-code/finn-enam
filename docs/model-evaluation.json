@@ -1,0 +1,769 @@
+{
+  "runAt": "2026-11-15T11:14:03.241Z",
+  "model": "hyde/glm-5.3-flash",
+  "provider": "Hyde",
+  "note": "Transport, date boundaries, explicit expected-fact assertions and a separate claim-support review. Semantic correctness still needs human review; this is not a general accuracy benchmark.",
+  "cacheReused": true,
+  "results": [
+    {
+      "id": "historical-cutoff",
+      "input": {
+        "symbol": "INFY",
+        "question": "What was the FY25 revenue growth guidance?",
+        "asOf": "2024-06-01T00:00:00Z"
+      },
+      "expected": "Uses only the initial 1–3% target; no later revisions or actual result.",
+      "http": 200,
+      "modelError": null,
+      "status": "answered",
+      "claims": [
+        {
+          "text": "In its April 2024 earnings call, management guided FY25 revenue growth of 1% to 3% in constant currency.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S1",
+              "quote": "our revenue growth guidance for FY '25 is 1% to 3% growth in constant currency",
+              "evidence": {
+                "documentId": "doc-3fff704a64ede509515b",
+                "title": "Infosys earnings call · Apr 2024",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77f16d60-73b2-4877-80fb-c641f2529a70.pdf",
+                "page": 22,
+                "text": "We also see normal seasonality as we plan this financial year in terms of guidance. With that, our revenue growth guidance for FY '25 is 1% to 3% growth in constant currency. Our operating margin guidance for FY '25 is 20% to 22%.",
+                "publishedAt": "2024-04-23T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:34.903Z",
+                "type": "transcript"
+              }
+            },
+            {
+              "sourceId": "S2",
+              "quote": "our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms",
+              "evidence": {
+                "documentId": "doc-3fff704a64ede509515b",
+                "title": "Infosys earnings call · Apr 2024",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77f16d60-73b2-4877-80fb-c641f2529a70.pdf",
+                "page": 4,
+                "text": "With that, our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms. Our operating margin guidance for the FY25 is 20% to 22%. With that, let us open it up for questions. Rishi Basu Thank you, Salil. Joining Salil is Mr. Jayesh Sanghrajka, Chief Financial Officer, Infosys. With that, we have the first question from Ritu Singh from CNBC TV18. Ritu Singh Hi, Salil. Hi, Jayesh. First, just on your revenue guidance, on the lower end, you have actually lowered the guidance compared to the previous year, now at 1% to 3%. Give us a sense of what you have built into it - when you say deal wins have been the highest ever in FY24? What you expect, what your conversation with clients has been, what the pipeline is looking like? And earlier, you had highlighted verticals like Hi-Tech, BFSI, etc., showing some weakness. Are you seeing some improvement there? Also, I think now for the fifth quarter in a row, the headcount has been coming down.",
+                "publishedAt": "2024-04-23T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:34.903Z",
+                "type": "transcript"
+              }
+            }
+          ]
+        },
+        {
+          "text": "The FY25 guidance excludes the then-announced acquisition of in-tech.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S12",
+              "quote": "Guidance for FY '25 does not factor in today’s acquisition of in-tech.",
+              "evidence": {
+                "documentId": "doc-3fff704a64ede509515b",
+                "title": "Infosys earnings call · Apr 2024",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77f16d60-73b2-4877-80fb-c641f2529a70.pdf",
+                "page": 25,
+                "text": "Our operating margin guidance for the year is 20% to 22%. Guidance for FY '25 does not factor in today’s acquisition of in-tech. With that, let me open the call for the questions. Moderator Thank you very much. We will now begin the question and answer session. The first question is from the line of Moshe Katri from Wedbush Securities. Please go ahead. Moshe Katri Thanks.",
+                "publishedAt": "2024-04-23T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:34.903Z",
+                "type": "transcript"
+              }
+            }
+          ]
+        },
+        {
+          "text": "Management expected FY25 growth to accelerate from FY24 levels in Financial Services and Telecom verticals, with slower growth in Manufacturing and Hi-Tech remaining soft.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S8",
+              "quote": "In FY '25, therefore, we expect growth to accelerate from FY '24 levels in Financial Services and Telecom verticals due to large deal wins. Manufacturing sector while still showing a healthy growth, will see lower growth in FY '25. Hi-Tech is expected to remain soft.",
+              "evidence": {
+                "documentId": "doc-3fff704a64ede509515b",
+                "title": "Infosys earnings call · Apr 2024",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77f16d60-73b2-4877-80fb-c641f2529a70.pdf",
+                "page": 25,
+                "text": "Clients in Communication sector continue to be cautious with growth and challenges. New capex allocation remains under check, while the budget remains tight. We see opportunities in cost takeout, AI and database initiative. Growth in coming quarters will be led by ramp-ups of previously won deals. EURS clients are taking cautious approach with focus on cost optimization, AI-driven efficiency. We are witnessing more deals around vendor consolidation and infra-managed services. Deal pipeline of large and mega deals is strong due to our sustained efforts and proactive pitches for cost take outs and digital transformation, etc., across subsectors. Macro concerns in Hi-Tech continue leading to delays in deal closures, decision-making and plans to repurposing spend. Discretionary programs are kept on hold. In FY '25, therefore, we expect growth to accelerate from FY '24 levels in Financial Services and Telecom verticals due to large deal wins. Manufacturing sector while still showing a healthy growth, will see lower growth in FY '25. Hi-Tech is expected to remain soft.",
+                "publishedAt": "2024-04-23T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:34.903Z",
+                "type": "transcript"
+              }
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "The evidence covers only the April 2024 guidance; any later revisions to the FY25 revenue growth guidance are not in the supplied documents.",
+        "Some draft claims failed citation or numeric-support checks and were withheld.",
+        "A draft correction could not finish; only the claims that passed the first checks are shown."
+      ],
+      "validation": {
+        "acceptedClaims": 3,
+        "rejectedClaims": 1,
+        "rejectionReasons": [
+          "unsupported_numeric_token"
+        ],
+        "quoteChecks": true,
+        "note": "Quotes, numbers and contradiction checks passed, followed by a separate model review of claim support. Model review can still miss errors; inspect the original evidence."
+      },
+      "usage": {
+        "requests": 3,
+        "durationMs": 7090,
+        "inputTokens": null,
+        "outputTokens": null
+      },
+      "evidenceCount": 12,
+      "allEvidenceWithinCutoff": true,
+      "durationMs": 7145,
+      "quality": {
+        "checks": {
+          "hasAnswer": true,
+          "initial": true,
+          "noLaterNumbers": true,
+          "noAnalystAsManagement": true
+        },
+        "passed": true
+      }
+    },
+    {
+      "id": "business-tcs",
+      "input": {
+        "symbol": "TCS",
+        "question": "What does the company do and how does it earn revenue?"
+      },
+      "expected": "Cited business explanation using TCS documents.",
+      "http": 200,
+      "modelError": null,
+      "status": "answered",
+      "claims": [
+        {
+          "text": "TCS earns revenue primarily from providing IT services, consulting and business solutions, offering a consulting-led, cognitive powered, integrated portfolio of IT, business and engineering services and solutions (per FY26 annual report, standalone note).",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S1",
+              "quote": "The Company earns revenue primarily from providing IT services, consulting and business solutions. The Company offers a consulting-led, cognitive powered, integrated portfolio of IT, business and engineering services and solutions.",
+              "evidence": {
+                "documentId": "doc-d0bdc7fe1ae741b07bb7",
+                "title": "TCS integrated annual report · FY26",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+                "page": 291,
+                "text": "4 Less: Appropriations Dividend on equity shares 39,437 44,864 84,329 73,380 Investment revaluation reserve Opening balance 784 339 Change during the year (net) (798) 445 (14) 784 Cash flow hedging reserve (Refer note 6(l)) Opening balance (15) (9) Change during the year (net) (7) (6) (22) (15) 84,314 75,255 *Represents value less than H0.50 crore. 10) Revenue recognition The Company earns revenue primarily from providing IT services, consulting and business solutions. The Company offers a consulting-led, cognitive powered, integrated portfolio of IT, business and engineering services and solutions. Revenue is recognised upon transfer of control of promised products or services to customers in an amount that reflects the consideration which the Company expects to receive in exchange for those products or services. Revenue from time and material and job contracts is recognised on output basis measured by units delivered, efforts expended, number of transactions processed, etc.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:36.665Z",
+                "type": "annual_report",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-05-15",
+                "section": "Company document"
+              }
+            }
+          ]
+        },
+        {
+          "text": "Revenue is recognised upon transfer of control of promised products or services; time and material and job contracts are recognised on output basis, and fixed price maintenance and support contracts are recognised based on time elapsed and straight-lined over the period of performance (consolidated FY26 note).",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S2",
+              "quote": "Revenue from time and material and job contracts is recognised on output basis measured by units delivered, efforts expended, number of transactions processed, etc. Revenue related to fixed price maintenance and support services contracts where the Group is standing ready to provide services is recognised based on time elapsed mode and revenue is straight-lined over the period of performance.",
+              "evidence": {
+                "documentId": "doc-d0bdc7fe1ae741b07bb7",
+                "title": "TCS integrated annual report · FY26",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+                "page": 210,
+                "text": "Statutory Reports Corporate Overview Financial Statements Consolidated Financial Statements 239 Notes forming part of consolidated financial statements 12) Revenue recognition The Group earns revenue primarily from providing IT services, consulting and business solutions. The Group offers a consulting-led, cognitive powered, integrated portfolio of IT, business and engineering services and solutions. Revenue is recognised upon transfer of control of promised products or services to customers in an amount that reflects the consideration which the Group expects to receive in exchange for those products or services. Revenue from time and material and job contracts is recognised on output basis measured by units delivered, efforts expended, number of transactions processed, etc. Revenue related to fixed price maintenance and support services contracts where the Group is standing ready to provide services is recognised based on time elapsed mode and revenue is straight-lined over the period of performance.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:36.665Z",
+                "type": "annual_report",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-05-15",
+                "section": "Company document"
+              }
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "The currency unit for the segment revenue figures in the September 30, 2026 results excerpt is not stated in the supplied text, so no segment amounts are asserted.",
+        "The evidence contains conflicting characterisations of traditional services performance (S4 says traditional non-AI revenue declined; S5 says traditional services grew market share), so no claim about traditional services direction is made.",
+        "A full breakdown of revenue by service line (e.g., percentage mix by service type) is not present in the supplied evidence.",
+        "The exact publication date of the FY26 integrated annual report is not established in the evidence (only an availableAt timestamp).",
+        "Some draft claims failed citation or numeric-support checks and were withheld."
+      ],
+      "validation": {
+        "acceptedClaims": 2,
+        "rejectedClaims": 3,
+        "rejectionReasons": [
+          "unsupported_numeric_token",
+          "direction_conflict",
+          "metric_value_mismatch"
+        ],
+        "quoteChecks": true,
+        "note": "Quotes, numbers and contradiction checks passed, followed by a separate model review of claim support. Model review can still miss errors; inspect the original evidence."
+      },
+      "usage": {
+        "requests": 3,
+        "durationMs": 7752,
+        "inputTokens": 9249,
+        "outputTokens": 1944
+      },
+      "evidenceCount": 12,
+      "allEvidenceWithinCutoff": true,
+      "durationMs": 7846,
+      "quality": {
+        "checks": {
+          "hasAnswer": true,
+          "business": true,
+          "noAnalystAsManagement": true
+        },
+        "passed": true
+      }
+    },
+    {
+      "id": "capacity-polycab",
+      "input": {
+        "symbol": "POLYCAB",
+        "question": "What does management say about capacity expansion and capital expenditure?"
+      },
+      "expected": "Cited management statements; does not equate an investment plan with completed capacity.",
+      "http": 200,
+      "modelError": null,
+      "status": "answered",
+      "claims": [
+        {
+          "text": "In the January 2026 earnings call, management stated Project Spring guidance of investing INR 12 billion to INR 16 billion annually through FY30; 9M FY26 capex stood at INR 10.9 billion.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S7",
+              "quote": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, in-line with our Project Spring guidance of investing ₹ 12 billion to ₹ 16 billion annually through FY30.",
+              "evidence": {
+                "documentId": "doc-a329cd206e93f6b36d9b",
+                "title": "Earnings-call transcript · Jan 2026",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+                "page": 5,
+                "text": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, in-line with our Project Spring guidance of investing ₹ 12 billion to ₹ 16 billion annually through FY30. On a 9 -month basis, I'm proud to share that 9M FY26 revenues, EBITDA and PAT are the highest ever in the company's history for any 9 -month period. Revenues grew 30% YoY, crossing ₹200 billion milestone. EBITDA grew 47% YoY, with margins strong at 14.2%.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:28.719Z",
+                "type": "transcript",
+                "speaker": "Shashank Yagnick",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-01-16",
+                "section": "Management discussion and Q&A"
+              }
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "The evidence does not provide a detailed breakdown of capacity expansion by specific product line or plant location, nor expected capacity addition volumes or timelines beyond the Project Spring allocation percentages.",
+        "Some draft claims failed citation or numeric-support checks and were withheld.",
+        "A draft correction could not finish; only the claims that passed the first checks are shown.",
+        "Claims with uncertain speaker, period or factual support were withheld after a separate evidence review."
+      ],
+      "validation": {
+        "acceptedClaims": 1,
+        "rejectedClaims": 5,
+        "rejectionReasons": [
+          "quote_mismatch",
+          "unsupported_numeric_token",
+          "unsupported_unit",
+          "unverified_speaker",
+          "support_speaker"
+        ],
+        "quoteChecks": true,
+        "note": "Quotes, numbers and contradiction checks passed, followed by a separate model review of claim support. Model review can still miss errors; inspect the original evidence."
+      },
+      "usage": {
+        "requests": 3,
+        "durationMs": 9624,
+        "inputTokens": null,
+        "outputTokens": null
+      },
+      "evidenceCount": 12,
+      "allEvidenceWithinCutoff": true,
+      "durationMs": 9746,
+      "quality": {
+        "checks": {
+          "hasAnswer": true,
+          "capacity": true,
+          "noAnalystAsManagement": true
+        },
+        "passed": true
+      }
+    },
+    {
+      "id": "generic-asianpaint",
+      "input": {
+        "symbol": "ASIANPAINT",
+        "question": "What are the business segments and key risks?"
+      },
+      "expected": "Uses the same retrieval and synthesis pipeline for a company outside the prepared portfolio.",
+      "http": 200,
+      "modelError": null,
+      "status": "answered",
+      "claims": [
+        {
+          "text": "For segment reporting purposes, the Group is primarily engaged in the business of 'Paints and Home Decor' and has no separate reportable segment under Ind AS 108 (FY26 annual report).",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S12",
+              "quote": "Note 36 : Segment Reporting The Group is primarily engaged in the business of ‘Paints and Home Decor’. There is no separate reportable segment as per Ind AS 108 - Operating Segments.",
+              "evidence": {
+                "documentId": "doc-b7977d2419ed2e211d0a",
+                "title": "Asian Paints integrated annual report · FY26",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+                "page": 279,
+                "text": "Note 36 : Segment Reporting The Group is primarily engaged in the business of ‘Paints and Home Decor’. There is no separate reportable segment as per Ind AS 108 - Operating Segments. Note 37 : Investment in Associate Companies a) PPG Asian Paints Private Limited The Group has 50% interest in PPG Asian Paints Private Limited, which is involved in the manufacture of original equipment manufacturer coatings. PPG Asian Paints Private Limited is a private entity that is not listed on any public exchange. The Group’s interest in PPG Asian Paints Private Limited is accounted for using the equity method in the Consolidated Financial Statements.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:46.718Z",
+                "type": "annual_report",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-06-12",
+                "section": "Company document"
+              }
+            }
+          ]
+        },
+        {
+          "text": "Within its markets, the Company focuses on real estate as the mainstay, with dedicated focus on two high-growth verticals - Industrial (Factories) and Government Infrastructure (FY26 annual report).",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S1",
+              "quote": "While the real estate segment has remained the mainstay, the Company has built dedicated focus on two high-growth verticals - Industrial (Factories) and Government Infrastructure.",
+              "evidence": {
+                "documentId": "doc-b7977d2419ed2e211d0a",
+                "title": "Asian Paints integrated annual report · FY26",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+                "page": 26,
+                "text": "While the real estate segment has remained the mainstay, the Company has built dedicated focus on two high-growth verticals - Industrial (Factories) and Government Infrastructure. These are sunrise segments characterised by a large and expanding addressable market. The Company has made steady inroads through progressive expansion of its product portfolio and service capabilities in both verticals. The operating approach has centred on end-to-end solution delivery across the project lifecycle. For maintenance and repair requirements, the focus has been on addressing persistent, recurring challenges faced by institutional customers through comprehensive system-level interventions. For new construction projects, the emphasis has been on delivering effective, durable coating systems. The core real estate business has maintained sustained momentum, particularly in the premium and luxury segments across major urban centres.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:46.718Z",
+                "type": "annual_report",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-06-12",
+                "section": "Company document"
+              }
+            }
+          ]
+        },
+        {
+          "text": "The B2B business was described on the July 2026 earnings call as driven by factories, hospitality, and government projects, with the AP Juggernaut initiative covering more than 100 key accounts.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S3",
+              "quote": "Various segments, whether factories, hospitality, or government projects, are all strong drivers of the B2B business, which earlier was largely limited to builders and CHS societies.",
+              "evidence": {
+                "documentId": "doc-579a8a98c6eb6bd9864e",
+                "title": "Asian Paints earnings call · July 2026",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+                "page": 9,
+                "text": "We believe this is a major growth vehicle, capitalizing on the infrastructure growth that is taking place. Various segments, whether factories, hospitality, or government projects, are all strong drivers of the B2B business, which earlier was largely limited to builders and CHS societies. Today, it has evolved into a much larger opportunity. Whether it is airports, ports, or bullet train projects, you will find us present across these spaces, offering a wide range of products and services. This is an area where we continue to strengthen our presence and expand our offerings. Within this, we also have something called the AP Juggernaut, through which we look at serving multiple requirements of a single customer, whether decorative or industrial needs, under one key account relationship. Today, we have more than 100 key accounts that form part of this Juggernaut initiative, where a customer can access the entire portfolio of Asian Paints products and services under one umbrella. This is another important area that we are focused on as we continue to grow the business.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:48.641Z",
+                "type": "transcript",
+                "speaker": "Amit Syngle",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-07-29",
+                "section": "Management discussion and Q&A"
+              }
+            },
+            {
+              "sourceId": "S3",
+              "quote": "Today, we have more than 100 key accounts that form part of this Juggernaut initiative, where a customer can access the entire portfolio of Asian Paints products and services under one umbrella.",
+              "evidence": {
+                "documentId": "doc-579a8a98c6eb6bd9864e",
+                "title": "Asian Paints earnings call · July 2026",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+                "page": 9,
+                "text": "We believe this is a major growth vehicle, capitalizing on the infrastructure growth that is taking place. Various segments, whether factories, hospitality, or government projects, are all strong drivers of the B2B business, which earlier was largely limited to builders and CHS societies. Today, it has evolved into a much larger opportunity. Whether it is airports, ports, or bullet train projects, you will find us present across these spaces, offering a wide range of products and services. This is an area where we continue to strengthen our presence and expand our offerings. Within this, we also have something called the AP Juggernaut, through which we look at serving multiple requirements of a single customer, whether decorative or industrial needs, under one key account relationship. Today, we have more than 100 key accounts that form part of this Juggernaut initiative, where a customer can access the entire portfolio of Asian Paints products and services under one umbrella. This is another important area that we are focused on as we continue to grow the business.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:48.641Z",
+                "type": "transcript",
+                "speaker": "Amit Syngle",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-07-29",
+                "section": "Management discussion and Q&A"
+              }
+            }
+          ]
+        },
+        {
+          "text": "The Group holds a 50% interest in PPG Asian Paints Private Limited, which is involved in the manufacture of original equipment manufacturer coatings and is accounted for using the equity method (FY26 annual report).",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S12",
+              "quote": "The Group has 50% interest in PPG Asian Paints Private Limited, which is involved in the manufacture of original equipment manufacturer coatings.",
+              "evidence": {
+                "documentId": "doc-b7977d2419ed2e211d0a",
+                "title": "Asian Paints integrated annual report · FY26",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+                "page": 279,
+                "text": "Note 36 : Segment Reporting The Group is primarily engaged in the business of ‘Paints and Home Decor’. There is no separate reportable segment as per Ind AS 108 - Operating Segments. Note 37 : Investment in Associate Companies a) PPG Asian Paints Private Limited The Group has 50% interest in PPG Asian Paints Private Limited, which is involved in the manufacture of original equipment manufacturer coatings. PPG Asian Paints Private Limited is a private entity that is not listed on any public exchange. The Group’s interest in PPG Asian Paints Private Limited is accounted for using the equity method in the Consolidated Financial Statements.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:46.718Z",
+                "type": "annual_report",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-06-12",
+                "section": "Company document"
+              }
+            },
+            {
+              "sourceId": "S12",
+              "quote": "The Group’s interest in PPG Asian Paints Private Limited is accounted for using the equity method in the Consolidated Financial Statements.",
+              "evidence": {
+                "documentId": "doc-b7977d2419ed2e211d0a",
+                "title": "Asian Paints integrated annual report · FY26",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+                "page": 279,
+                "text": "Note 36 : Segment Reporting The Group is primarily engaged in the business of ‘Paints and Home Decor’. There is no separate reportable segment as per Ind AS 108 - Operating Segments. Note 37 : Investment in Associate Companies a) PPG Asian Paints Private Limited The Group has 50% interest in PPG Asian Paints Private Limited, which is involved in the manufacture of original equipment manufacturer coatings. PPG Asian Paints Private Limited is a private entity that is not listed on any public exchange. The Group’s interest in PPG Asian Paints Private Limited is accounted for using the equity method in the Consolidated Financial Statements.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:46.718Z",
+                "type": "annual_report",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-06-12",
+                "section": "Company document"
+              }
+            }
+          ]
+        },
+        {
+          "text": "On the October 2026 earnings call, management stated that the PPGAP JV (Auto OE Refinishes) garnered almost 34% growth, driven largely by Auto OE and industrial segments, with a little bit of an inflationary impact.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S10",
+              "quote": "One is the PPGAP which is the Auto OE Refinishes. Here, the growth has been astronomical, almost 34% of the growth we have garnered here. Largely driven by the Auto OE and the industrial segments. A little bit of an inflationary impact, although the business has been quite proactive from a point of view of looking at passing on the price increases.",
+              "evidence": {
+                "documentId": "doc-5194bb1483895afd0e5f",
+                "title": "Asian Paints earnings call · October 2026",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
+                "page": 18,
+                "text": "Good growth coming in those categories. Similarly, Weatherseal we saw good growth. White Teak was the only one where the growth has been slower. And overall, from a point of view of bottom line also, the Kitchen and Bath business is something which we are ramping up to that extent. So, we have been at it for some time and we continue backing up the businesses from a point of view of how we want to take it, because we feel that the integration from a point of view of decor and paint is very strong. The industrial, as I said, has been a real high point, I think in the last two years this trend continues. We have two JVs which we speak of. One is the PPGAP which is the Auto OE Refinishes. Here, the growth has been astronomical, almost 34% of the growth we have garnered here. Largely driven by the Auto OE and the industrial segments. A little bit of an inflationary impact, although the business has been quite proactive from a point of view of looking at passing on the price increases.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:47.537Z",
+                "type": "transcript",
+                "speaker": "Amit Syngle",
+                "speakerRole": "management",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-10-29",
+                "section": "Management discussion and Q&A"
+              }
+            }
+          ]
+        },
+        {
+          "text": "The FY26 annual report notes that the broader home décor industry navigated near-term retail headwinds, while the Company's underlying infrastructure proved its resilience.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S11",
+              "quote": "While the broader home décor industry navigated near- term retail headwinds, our underlying infrastructure proved its resilience.",
+              "evidence": {
+                "documentId": "doc-b7977d2419ed2e211d0a",
+                "title": "Asian Paints integrated annual report · FY26",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+                "page": 16,
+                "text": "This growth was delivered with clear financial discipline. Ongoing cost optimisation and operating efficiency initiatives enabled the Company to increase brand investments while progressively improving operating margins throughout the course of the year. The broader coatings portfolio added further strength to the overall performance. The Industrial and Automotive Protective Coatings businesses delivered double-digit growth, driven by focused customer engagement, sharper category execution and continued relevance across end-use segments. Overall coatings volume and value growth, which provides a more representative view of the underlying business momentum, were 9.0% and 5.3% respectively. Our transition into India’s integrated home décor partner remains a relevant, long-term goal. While the broader home décor industry navigated near- term retail headwinds, our underlying infrastructure proved its resilience.",
+                "publishedAt": null,
+                "availableAt": "2026-11-15T09:36:46.718Z",
+                "type": "annual_report",
+                "speakerRole": "unknown",
+                "metadataStatus": "verified",
+                "sourceDate": "2026-06-12",
+                "section": "Company document"
+              }
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "The evidence does not include a formal risk-factor or risk management section from the annual report, so a comprehensive list of key risks (competitive, input-cost, regulatory, etc.) is not available.",
+        "No quantitative segment revenue breakdown is available since the Group reports a single reportable segment; vertical-level (B2B vs decorative) revenue figures are not in the evidence.",
+        "The evidence references a JV described as APPPG (protective paints, powder coatings, traffic paints) on the January 2026 call, but no annual-report detail on this entity is provided.",
+        "Some draft claims failed citation or numeric-support checks and were withheld."
+      ],
+      "validation": {
+        "acceptedClaims": 6,
+        "rejectedClaims": 1,
+        "rejectionReasons": [
+          "unsupported_numeric_token"
+        ],
+        "quoteChecks": true,
+        "note": "Quotes, numbers and contradiction checks passed, followed by a separate model review of claim support. Model review can still miss errors; inspect the original evidence."
+      },
+      "usage": {
+        "requests": 3,
+        "durationMs": 12160,
+        "inputTokens": 10304,
+        "outputTokens": 2254
+      },
+      "evidenceCount": 12,
+      "allEvidenceWithinCutoff": true,
+      "durationMs": 12267,
+      "quality": {
+        "checks": {
+          "hasAnswer": true,
+          "segments": true,
+          "noAnalystAsManagement": true
+        },
+        "passed": true
+      }
+    },
+    {
+      "id": "plausible-unsupported",
+      "input": {
+        "symbol": "INFY",
+        "question": "What exact dividend per share has the board approved for FY2035?"
+      },
+      "expected": "Abstains: no approved FY2035 dividend in the supplied evidence.",
+      "http": 200,
+      "modelError": null,
+      "status": "insufficient_evidence",
+      "claims": [],
+      "gaps": [
+        "No evidence in the supplied documents mentions any dividend per share approved by the board for fiscal year 2035; the latest dividend-related facts cover FY2025 (proposed final dividend of Rs. 22) and an interim dividend of `26 announced in the October 2026 earnings call, but nothing for FY2035."
+      ],
+      "validation": {
+        "acceptedClaims": 0,
+        "rejectedClaims": 0,
+        "rejectionReasons": [],
+        "quoteChecks": true,
+        "note": "Source IDs, quoted text and numeric tokens checked in code. These checks do not prove that a claim follows from its sources; inspect the excerpts."
+      },
+      "usage": {
+        "inputTokens": 4010,
+        "outputTokens": 94,
+        "durationMs": 975,
+        "requests": 1
+      },
+      "evidenceCount": 12,
+      "allEvidenceWithinCutoff": true,
+      "durationMs": 1067,
+      "quality": {
+        "checks": {
+          "abstains": true,
+          "noAnalystAsManagement": true
+        },
+        "passed": true
+      }
+    },
+    {
+      "id": "unsupported-premise",
+      "input": {
+        "symbol": "INFY",
+        "question": "What was the revenue of the company’s mining operations on Mars in FY25?"
+      },
+      "expected": "Abstains; no invented Mars operations or revenue.",
+      "http": 200,
+      "modelError": null,
+      "status": "insufficient_evidence",
+      "claims": [],
+      "gaps": [
+        "The evidence contains no information about mining operations on Mars; Infosys's disclosed revenues for FY25 (e.g., ₹1,62,990 crore or US$19,277 million consolidated per S3/S9) do not include any Mars mining segment, and no such business line appears in any supplied source."
+      ],
+      "validation": {
+        "acceptedClaims": 0,
+        "rejectedClaims": 0,
+        "rejectionReasons": [],
+        "quoteChecks": true,
+        "note": "Source IDs, quoted text and numeric tokens checked in code. These checks do not prove that a claim follows from its sources; inspect the excerpts."
+      },
+      "usage": {
+        "inputTokens": 3676,
+        "outputTokens": 82,
+        "durationMs": 873,
+        "requests": 1
+      },
+      "evidenceCount": 12,
+      "allEvidenceWithinCutoff": true,
+      "durationMs": 965,
+      "quality": {
+        "checks": {
+          "abstains": true,
+          "noAnalystAsManagement": true
+        },
+        "passed": true
+      }
+    },
+    {
+      "observedAt": "2026-11-15T11:14:03.172Z",
+      "id": "guidance-actual",
+      "input": {
+        "symbol": "INFY",
+        "question": "What was the final FY25 revenue growth guidance and what was the actual full-year growth? State the reporting basis.",
+        "asOf": "2025-04-23T00:00:00Z"
+      },
+      "expected": "Cites final 4.5–5% and actual 4.2%, both constant currency; separates expectations from actuals.",
+      "http": 200,
+      "modelError": null,
+      "status": "answered",
+      "claims": [
+        {
+          "text": "In its January 2025 earnings call, management revised the FY25 revenue growth guidance to 4.5% to 5% in constant currency terms (the last FY25 guidance revision in the supplied evidence).",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S8",
+              "quote": "Driven by our performance and outlook for the rest of the year, we are revising our FY'25 revenue guidance to 4.5% to 5% in constant currency terms. Our operating margin guidance remains at 20% to 22%.",
+              "evidence": {
+                "documentId": "doc-eab53c5893f93fe6284e",
+                "title": "Infosys earnings call · Jan 2025",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ba0eb28e-bc2c-46d4-b945-9f4c67091850.pdf",
+                "page": 27,
+                "text": "Driven by our performance and outlook for the rest of the year, we are revising our FY'25 revenue guidance to 4.5% to 5% in constant currency terms. Our operating margin guidance remains at 20% to 22%. With that, we can open the floor for questions.",
+                "publishedAt": "2025-01-21T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:37.755Z",
+                "type": "transcript"
+              }
+            }
+          ]
+        },
+        {
+          "text": "Actual FY25 revenue growth was 4.2% in constant currency terms, per the April 2025 earnings call.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S2",
+              "quote": "We had an excellent financial year 2025. Our revenues grew at 4.2% in constant currency terms.",
+              "evidence": {
+                "documentId": "doc-d283ccfcecd166568bf1",
+                "title": "Infosys earnings call · Apr 2025",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8c8bbc00-087d-4d75-9171-d37a3f83a170.pdf",
+                "page": 24,
+                "text": "Kindly note that anything we say which refers to our outlook for the future is a forward-looking statement that must be read in conjunction with the risk that the company faces. A full statement and explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov. I would now like to pass on the call to Salil. Salil Parekh Thanks, Sandeep. Good evening and good morning to all of you. Thank you for joining us on this call. We had an excellent financial year 2025. Our revenues grew at 4.2% in constant currency terms. Our operating margin was 21.1%. We generated $4.1 bn in free cash flow and we had $11.6 bn in large deals. In Q4, we had year-on-year growth of 4.8% and operating margin of 21%. We are seeing growing demand from clients to partner with them on AI, they are moving from a use case-based approach to an AI-led transformational approach with AI agents playing a critical role. We are working on AI projects by bringing Infosys Topaz, a generative and edge AI-powered services and solutions for their benefit.",
+                "publishedAt": "2025-04-22T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:38.683Z",
+                "type": "transcript"
+              }
+            }
+          ]
+        },
+        {
+          "text": "In rupee terms, FY25 revenue growth was 6.1%, per the April 2025 earnings call.",
+          "kind": "reported",
+          "citations": [
+            {
+              "sourceId": "S12",
+              "quote": "In Rupee terms, revenue growth for FY'25 was 6.1%.",
+              "evidence": {
+                "documentId": "doc-d283ccfcecd166568bf1",
+                "title": "Infosys earnings call · Apr 2025",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8c8bbc00-087d-4d75-9171-d37a3f83a170.pdf",
+                "page": 26,
+                "text": "Sequentially, revenue declined by 3.5% in constant currency terms due to reduction in third- party costs and seasonal weakness. Approximately, two-third of the sequential revenue drop was due to reduction in third party with the decline being higher than our expectation. Balance one-third drop was due to volume decline and lower calendar and working day driven by Q4 seasonality. 5. Revenue increased by 4.8% on a year-on-year basis in constant currency terms in Q4. Europe grew 3x of the company rate at 15% in constant currency terms driven by our focused approach of client mining, ramp-up of large deals and acquisitions. Europe now accounts for 30% of our revenues. 6. Financial Services and Manufacturing grew double digit year-on-year at 12.6% and 14%, respectively in constant currency terms. 7. In Rupee terms, revenue growth for FY'25 was 6.1%. 8. Revenue growth accompanied by operating margin expansion led to 8.3% growth in EPS on a normalized basis, adjusting for interest on tax refunds for FY'24 and '25. 9.",
+                "publishedAt": "2025-04-22T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:38.683Z",
+                "type": "transcript"
+              }
+            }
+          ]
+        },
+        {
+          "text": "The FY25 guidance history in the supplied evidence: initial guidance of 1% to 3% constant currency (April 2024), revised to 3% to 4% (July 2024), then 3.75% to 4.5% (October 2024), then 4.5% to 5% (January 2025); these are successive revisions of one annual target, not independent promises.",
+          "kind": "inference",
+          "citations": [
+            {
+              "sourceId": "S5",
+              "quote": "With that, our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms.",
+              "evidence": {
+                "documentId": "doc-3fff704a64ede509515b",
+                "title": "Infosys earnings call · Apr 2024",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77f16d60-73b2-4877-80fb-c641f2529a70.pdf",
+                "page": 4,
+                "text": "With that, our revenue growth guidance for the FY25 is growth of 1% to 3% in constant currency terms. Our operating margin guidance for the FY25 is 20% to 22%. With that, let us open it up for questions. Rishi Basu Thank you, Salil. Joining Salil is Mr. Jayesh Sanghrajka, Chief Financial Officer, Infosys. With that, we have the first question from Ritu Singh from CNBC TV18. Ritu Singh Hi, Salil. Hi, Jayesh. First, just on your revenue guidance, on the lower end, you have actually lowered the guidance compared to the previous year, now at 1% to 3%. Give us a sense of what you have built into it - when you say deal wins have been the highest ever in FY24? What you expect, what your conversation with clients has been, what the pipeline is looking like? And earlier, you had highlighted verticals like Hi-Tech, BFSI, etc., showing some weakness. Are you seeing some improvement there? Also, I think now for the fifth quarter in a row, the headcount has been coming down.",
+                "publishedAt": "2024-04-23T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:34.903Z",
+                "type": "transcript"
+              }
+            },
+            {
+              "sourceId": "S7",
+              "quote": "we have revised our revenue growth guidance for the full financial year to 3% to 4% growth in constant currency.",
+              "evidence": {
+                "documentId": "doc-fe39830126b7c2ac7751",
+                "title": "Infosys earnings call · Jul 2024",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/25353afa-0919-47a5-bd94-d149fef7d700.pdf",
+                "page": 23,
+                "text": "External Document © 2024 Infosys Limited 5 Given our strong performance in Q1 and our current outlook, we have revised our revenue growth guidance for the full financial year to 3% to 4% growth in constant currency. Our operating margin guidance for the financial year remains at 20% to 22%. With that, let me hand it over to Jayesh to share his update. Thank you. Jayesh Sanghrajka Thank you, Salil. Good morning and good evening, everyone, and thank you for joining the call today. We entered FY'25 focusing on key strategic priorities, including market share gains to accelerate revenue growth and drive margin improvement through Project Maximus.",
+                "publishedAt": "2024-07-23T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:35.720Z",
+                "type": "transcript"
+              }
+            },
+            {
+              "sourceId": "S6",
+              "quote": "The new guidance is 3.75% to 4.5% growth in constant currency for the full year.",
+              "evidence": {
+                "documentId": "doc-c2197812675d15673eb2",
+                "title": "Infosys earnings call · Oct 2024",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/166a1b43-d9c7-48a5-b93a-201cd0c324b6.pdf",
+                "page": 4,
+                "text": "With our strong performance in Q2 and our current outlook, we have revised our revenue growth guidance for financial year '25. The new guidance is 3.75% to 4.5% growth in constant currency for the full year. Operating margin guidance remains the same at 20% to 22%. With that let us open up for questions. Rishi Basu Thank you, Salil. We will now open the floor for questions. As always, we request one question from each media house to accommodate everyone over the next hour. Joining Salil is Mr. Jayesh Sanghrajka, Chief Financial Officer, Infosys. We have the first question from Ritu Singh from CNBC TV18. Ritu Singh Hi. First, on the guidance revision, if you could break down for us, how significantly altered is the demand environment now versus what you saw a couple of quarters ago? How much of this revision upwards is organic versus the contribution that you are seeing because of the in-tech acquisition? One, if you could begin by telling us that? Also, there have been seven revisions in the revenue guidance in the last eight quarters.",
+                "publishedAt": "2024-10-22T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:36.854Z",
+                "type": "transcript"
+              }
+            },
+            {
+              "sourceId": "S8",
+              "quote": "we are revising our FY'25 revenue guidance to 4.5% to 5% in constant currency terms.",
+              "evidence": {
+                "documentId": "doc-eab53c5893f93fe6284e",
+                "title": "Infosys earnings call · Jan 2025",
+                "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ba0eb28e-bc2c-46d4-b945-9f4c67091850.pdf",
+                "page": 27,
+                "text": "Driven by our performance and outlook for the rest of the year, we are revising our FY'25 revenue guidance to 4.5% to 5% in constant currency terms. Our operating margin guidance remains at 20% to 22%. With that, we can open the floor for questions.",
+                "publishedAt": "2025-01-21T18:29:59Z",
+                "availableAt": "2026-11-15T09:18:37.755Z",
+                "type": "transcript"
+              }
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "The evidence does not include the official Q4 FY25 press release or investor presentation, so the company's formal final guidance figure and the reported (non-constant-currency) full-year growth figure from those documents are not available; the 6.1% rupee-term growth comes from the earnings call transcript only."
+      ],
+      "validation": {
+        "acceptedClaims": 4,
+        "rejectedClaims": 0,
+        "rejectionReasons": [],
+        "quoteChecks": true,
+        "note": "Quotes, numbers and contradiction checks passed, followed by a separate model review of claim support. Model review can still miss errors; inspect the original evidence."
+      },
+      "usage": {
+        "requests": 2,
+        "durationMs": 3550,
+        "inputTokens": 6027,
+        "outputTokens": 682
+      },
+      "evidenceCount": 12,
+      "allEvidenceWithinCutoff": true,
+      "durationMs": 3758,
+      "quality": {
+        "checks": {
+          "hasAnswer": true,
+          "target": true,
+          "actual": true,
+          "basis": true,
+          "noAnalystAsManagement": true
+        },
+        "passed": true
+      }
+    }
+  ]
+}

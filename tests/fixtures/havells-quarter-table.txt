@@ -1,0 +1,81 @@
+HAVELLS   INDIA   LIMITED
+Regd.   Off.:   904, 9th Floor, Surya Kiran Building,   KG   Marg, Connaught Place,   New   Delhi-110   001
+Corporate   Off. :   QRG   Towers,   20   ,   Sector-   126, Expressway, Noida - 201   304
+Tel.#   0120-3331000;   Fax#   0120-3332000   ,   Email:   investors@havells.com
+CIN:   L31900DL   1983PLC016304
+STATEMENT   OF   UNAUDITED   CONSOLIDATED   FINANCIAL   RESULTS
+FOR   THE   QUARTER   AND   HALF   YEAR   ENDED   SEPTEMBER   30, 2026
+(Rs   in   crores'
+Quarter Ended   Half Year Ended   Year   Ended 
+S.No   Particulars   30-Sep-26   I   30-Jun-26   30-Sep-25   30-Sep-26   30-Sep-25   31-Mar-26
+Unaudited   Unaudited   Audited
+1   Income 
+a)   Revenue from operations   6,431.99   6,518.19   4,779.33   12,950.18   10,234.68   22,527.77
+b)   Other Income (refer note 4)   32.61   54.16   86.26   86.77   155.44   494.39 
+Total Income   6,464.60   6,572.35   4,865.59   13,036.95   10,390.12   23,022.16
+2   Expenses 
+a)   Cost of raw materials and components consumed   3,447.25   4,023.54   2,686.72   7,470.79   5,698.98   12,345.89
+b) Purchases   of   traded goods   991   .34   967.75   843.84   1,959.09   1,528.17   2,972.54
+c)   Changes in inventories offinished goods,   traded   goods and work in progress   17.91   (512.95)   (422.76)   (495.04)   (488.27)   (238.89)
+d)   Employee benefits expense   553.89   531.44   478.77   1,085.33   978.30   1,983.74
+e)   Finance cost   4.75   7.46   9.14   12.21   18.50   37.30
+f)   Depreciation and amortisation expense   128.57   120.57   105.78   249.14   211.52   431.92
+g)   Net impairment   on   financial and contract assets   (0.83)   1.23   (0.95)   0.40   2.65   1.88
+h) Other expenses
+Advertisement and sales   promotion   137.59   286.51   131   . 78   424.10   274.68   606.57
+Others   711   . 51   754.51   623.50   1,486.02   1   ,2   86. 07   2,656.39 
+Total Expenses   5,991.98   6,180.06   4,455.82   12,172.04   9,510.60   20,797.34
+3   Profit before excepttonal   Item,   share   of   profit   In   investment   accounted   using   equity   472.62   392.29   409.77   864.91   879.52   2,224.82
+method and tax (1-2)
+4   Share   of   profit in investment accounted using equity method   -   4.82   -   4. 82   29.78 
+5   Profit   before exceptional Item and tax (3+4)   472.62   392.29   414.59   864.91   864.34   2,254.60
+6   Exceptional item (refer Note   3)   .   .   .   -   45   .03 
+7   Profit before   tax   (5-6)   472.62   392.29   414.59   864.   91   864.34   2,209.57
+8   Income tax expense 
+a)   Current tax   114.41   101.95   96.00   216.36   222.06   461.06
+b)   Deferred tax ((Credit) / Charge)   8.99   0.63   0.31   9.62   (3.53)   59.26 
+Total tax expense   123.40   102.58   96.31   225.98   218.63   520.32
+9   Profit   for   the period (7-8)   349.22   289.71   318.28   638.93   665.81   1,689.25
+10   Other comprehensive lncome/(loss),   for   the period
+A   Items that will not   be   reclassified   to   profit   or   loss 
+Re-measurement gains/(loss)   on   defined benefit plan   0.75   0.75   (1.50)   1.50   (3.01)   11.69
+Income tax effect   on   the above   (0.19)   (0.19)   0.38   (0.38)   0.76   (2.94)
+Share   of   other comorehensive incomel(fossl   in   investment accounted usina eauitv method   -   (0.01   -   (0.01 
+B   Items that may be reclassified   to   profit   or   loss 
+Exchanae differences   on   translation   of   foreian   ooerations   0.90   (0,06   2. 51   0.84   1.62   1.22
+Income tax effect on the above
+Share   of   other comprehensive income !(loss) in investment accounted   using   equity   method   -   0.02   .   0.02   - 
+Other Comprehensive lncome/(Loss) for the period, net   of   tax   1.46   0.50   1.40   1.96   (0.62)   9.97
+11   Total comprehensive Income for the period, net of tax (9+10)   350.68   290.21   319.68   640.89   665.19   1,699.22
+12   Profit   for   the period attributable to: 
+Owners   of   the parent   349.52   290.38   319.00   639. 90   666.72   1,690.56
+Non-controllina interest   ro.3m   l0.67   (0.72   l0   .9   7   (0   . 91   (1.31 
+13   Other comnrehenslve Income for the   neriod   attributable to: 
+Owners   of   the oarent   1.27   0.50   0. 80   1.77   (1.21   9.46
+Non-controllina interest   0.19   -   0.60   0.19   0 . 59   0.51 
+14   Total comorehenslve Income for the   neriod   attributable to: 
+Owners   of   the oarent   350.79   290.88   319.80   641   .67   665.51   1,700.02
+Non-controllina interest   (0.11   (0.67)   (0.12)   (0.78)   (0.32)   (0.80) 
+15   Paid   up   equity   share capital (Face value   of   Re. 1/- each)   62.76   62.76   62.72   62.76   62.72   62.73
+16   Other eauitv   9,392.74
+17   Earnings   per   equity share (EPS) (not annualised for quarter and half year): 
+a) Basic EPS (Rs.)   5.57   4.63   5.09   10.20   10.63   26.95
+b) Diluted EPS (Rs.)   5.57   4.62   5. 08   10   .   19   10.63   26. 94 
+Notes: 
+1   These consolidated financial results have been prepared in accordance with the Indian Accounting Standards (Ind- AS) as prescribed under section 133   of   Companies   Act,   2013   read   with Rule 3   of   the
+Companies (Indian Accounting Standards) Rules, 2015 and relevant amendments thereafter.
+2   The above consolidated financial results have been reviewed by the Audit Committee. These consolidated results have been approved by the Board   of   Directors at their meeting held   on   October 22, 2026.
+Limited review under regulation 33   of   the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 has been carried out   by   the statutory auditors   of   the holding company. The auditors have
+issued an unmodified report on the above results.
+3   Pursuant to the   notification   of   the 'New Labour Codes' as issued in November 2025, the Group reassessed   its   employee benefit   ob   li   gations   in   accordance with the revised definition   of   wages and accordingly,
+an   incremental liabili ty   of   Rs.   45.03 crores had been recognised as an "Exceptional Item" in financial year 2025-26.
+4   Other Income for the quarter and half year ended September 30, 2025 includes a one-time gain   of   Rs.   45.27 crores   on   sale   of   land and building of Faridabad facility. Further, Other income for the year ended
+March 31, 2026, includes   a   fair value gain   of   Rs   282.74 crores   on   Investment. 
+..   ea~.,   For and   on   behalf   of   the Board 
+~   _,a ~I   M ,   P.;j • fJ   ~" 
+Havells India Limited 
+~   ""   °\ 
+C}s pta) 
+~   - ~~   ~: .-!it;   .104021   1 t.'Y>.- ~ <f' 
+Place : Naida   ,.,   *Cu   rugr.1f1\• 
+Date : October 22, 2026   Chairman and Managing Director 

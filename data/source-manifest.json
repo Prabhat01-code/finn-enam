@@ -1,0 +1,1364 @@
+{
+  "createdAt": "2026-11-15T09:47:29.993645+00:00",
+  "securityMaster": {
+    "url": "https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv",
+    "fetchedAt": "2026-11-15T09:10:59.365165+00:00",
+    "rows": 2635
+  },
+  "documents": [
+    {
+      "id": "doc-889ee382d055a528a645",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf",
+      "title": "Infosys integrated annual report \u00b7 FY26",
+      "type": "annual_report",
+      "period": "FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:15:43.250Z",
+      "hash": "889ee382d055a528a645ae28017b17df9da306328997dfc1d14d9b98757d88c2",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 383,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-05-29",
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "FY26",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "FY26",
+            "page": 1,
+            "text": "May 29, 2026; Integrated Annual Report for the Financial Year 2025-26"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-b8e9a931ed54ee49a23f",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7982fc61-7765-4981-ab3d-6aec36ba2137.pdf",
+      "title": "Infosys earnings call \u00b7 October 2026",
+      "type": "transcript",
+      "period": "Q2 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:15:44.138Z",
+      "hash": "b8e9a931ed54ee49a23fb36a7d6a37f15ab72c2f3bbd14d1e92d706b471f30e2",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 48,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-10-28",
+        "callDate": "2026-10-23",
+        "periodEnd": "2026-09-30",
+        "discoveredPeriod": "Q2 FY27",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q2 FY27",
+            "page": 1,
+            "text": "October 28, 2026; Board of directors on October 23, 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q2 FY27",
+            "page": 2,
+            "text": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-bdc83ce116f1336145a1",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+      "title": "Infosys earnings call \u00b7 July 2026",
+      "type": "transcript",
+      "period": "Q1 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:15:44.647Z",
+      "hash": "bdc83ce116f1336145a1529a91e62203e9e76023145772281dffc0919e98ab4f",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 48,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-07-28",
+        "callDate": "2026-07-23",
+        "periodEnd": "2026-06-30",
+        "discoveredPeriod": "Q1 FY27",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY27",
+            "page": 1,
+            "text": "July 28, 2026; Board of directors on July 23, 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY27",
+            "page": 2,
+            "text": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-4ac29aca97bbdc1fb2f6",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+      "title": "Infosys earnings call \u00b7 April 2026",
+      "type": "transcript",
+      "period": "Q4 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:15:45.420Z",
+      "hash": "4ac29aca97bbdc1fb2f6d4ac56358054f1d507046eef039c2178dfa969b0b42b",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 46,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-04-27",
+        "callDate": "2026-04-23",
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "Q4 FY26",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q4 FY26",
+            "page": 1,
+            "text": "April 27, 2026; Board of directors on April 23, 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q4 FY26",
+            "page": 2,
+            "text": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-e1d969bc5afd09fa6955",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4632b94-2a41-4103-876d-cdb1f6848d64.pdf",
+      "title": "Infosys Investor AI Day \u00b7 February 2026",
+      "type": "investor_event_transcript",
+      "period": "Investor AI Day 2026",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:15:46.411Z",
+      "hash": "e1d969bc5afd09fa6955961ddee7c152a59285a76f1baf6d4b40a55b9a6564c9",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 64,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4632b94-2a41-4103-876d-cdb1f6848d64.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-02-24",
+        "callDate": "2026-02-17",
+        "discoveredPeriod": "Investor AI Day 2026",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Investor AI Day 2026",
+            "page": 1,
+            "text": "February 24, 2026; Transcript of the Infosys Limited Investor AI Day 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Investor AI Day 2026",
+            "page": 2,
+            "text": "Title is Investor AI Day 2026, dated February 17, 2026; February is split across a PDF line break."
+          }
+        ],
+        "warnings": [
+          "Discovery labelled a non-quarterly Investor AI Day transcript as an earnings-call transcript.",
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "failed-INFY-results-2026-10-23",
+      "symbol": "INFY",
+      "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf",
+      "title": "Infosys Limited has submitted to the Exchange, Financial Results for the quarter and half year ended September 30, 2026 and declaration of interim dividend",
+      "type": "results",
+      "period": "2026-10-23",
+      "publishedAt": "2026-10-23T10:38:26.000Z",
+      "status": "failed",
+      "error": "Source exceeds the 12 MB download limit",
+      "fetchedAt": "2026-11-15T09:15:46.602Z",
+      "pages": 0
+    },
+    {
+      "id": "doc-baf227e394b6f6be0659",
+      "symbol": "HCLTECH",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf",
+      "title": "Earnings-call transcript \u00b7 Oct 2026",
+      "type": "transcript",
+      "period": "Q2 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:15.934Z",
+      "hash": "baf227e394b6f6be0659c3c482d707ffc62e98c9bfe248d417560d3527af75ed",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 26,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-10-15",
+        "callDate": "2026-10-12",
+        "periodEnd": "2026-09-30",
+        "discoveredPeriod": "Q2 FY27",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-10-15",
+            "page": 1,
+            "text": " UP, India t: +91 1 20 4306000 Corporate Identity Number: L74140DL1991 PLC046369 Registered Office: 806 Siddharth, 96, Nehru Place, New Delhi - 1100 1 9, India October 15, 2026 The General Manager BSE Limited Listing Department Phiroze Jeejeebhoy Towers Da"
+          },
+          {
+            "field": "callDate",
+            "value": "2026-10-12",
+            "page": 1,
+            "text": "laza 5th Floor, Plot No. C-1, Block-G Bandra-Kurla Complex, Bandra(E) Mumbai-400 051 NSE Scrip Code: HCLTECH Subject: Transcript of the Conference Call held on October 12, 2026 Dear Sir / Madam, In terms of the SEBI (Listing Obligations and Disclosure Requ"
+          },
+          {
+            "field": "periodEnd",
+            "value": "2026-09-30",
+            "page": 1,
+            "text": "d a copy of the transcript of the Conference Call held on October 12, 2026, post the announcement of the financial results of the Company for the quarter ended September 30, 2026. The is also available on our Company\u2019s website https://www.hcltech.com/investo"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-dac08c9eb661454215e2",
+      "symbol": "HCLTECH",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/11be9fba-0308-4756-a474-e4f2903fdaac.pdf",
+      "title": "Earnings-call transcript \u00b7 Jul 2026",
+      "type": "transcript",
+      "period": "Q1 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:16.403Z",
+      "hash": "dac08c9eb661454215e2a4d96378c33d194cfda874b11bc4ee7bd663ca213a7a",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 29,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11be9fba-0308-4756-a474-e4f2903fdaac.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-07-15",
+        "callDate": "2026-07-13",
+        "periodEnd": "2026-06-30",
+        "discoveredPeriod": "Q1 FY27",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-07-15",
+            "page": 1,
+            "text": "1304, UP, India t: +91 120 4306000 Corporate Identity Number: L74140DL1991PLC046369 Registered Office: 806 Siddharth, 96, Nehru Place, New Delhi -110019, India July 15, 2026 The General Manager BSE Limited Corporate Relationship Department Phiroze Jeeje"
+          },
+          {
+            "field": "callDate",
+            "value": "2026-07-13",
+            "page": 1,
+            "text": "ge Plaza 5th Floor, Plot No. C-1, Block-G Bandra-Kurla Complex, Bandra(E) Mumbai-400 051 NSE Scrip Code: HCLTECH Sub: Transcript of the Conference Call held on July 13, 2026 Dear Sir/ Madam, In terms of the SEBI (Listing Obligations and Disclosure Requi"
+          },
+          {
+            "field": "periodEnd",
+            "value": "2026-06-30",
+            "page": 1,
+            "text": "find a copy of the transcript of the Conference Call held on July 13, 2026, post the announcement of the financial results of the Company for the quarter ended June 30, 2026. The is also available on our Company\u2019s website https://www.hcltech.com/investo"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-9ddccba7f5707de4f1d0",
+      "symbol": "HCLTECH",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf",
+      "title": "Earnings-call transcript \u00b7 Jan 2026",
+      "type": "transcript",
+      "period": "Q3 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:17.075Z",
+      "hash": "9ddccba7f5707de4f1d068241d0e2c2c235c1f6a56766f3d2cc0ba0a2444fdb8",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 22,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-01-16",
+        "callDate": "2026-01-12",
+        "periodEnd": "2025-12-31",
+        "discoveredPeriod": "Q3 FY26",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-01-16",
+            "page": 1,
+            "text": "1304, UP, India t: +91 120 4306000 Corporate Identity Number: L74140DL1991PLC046369 Registered Office: 806 Siddharth, 96, Nehru Place, New Delhi -110009, India January 16, 2026 The General Manager BSE Limited Corporate Relationship Department Phiroze Jeeje"
+          },
+          {
+            "field": "callDate",
+            "value": "2026-01-12",
+            "page": 1,
+            "text": "ge Plaza 5th Floor, Plot No. C-1, Block-G Bandra-Kurla Complex, Bandra(E) Mumbai-400 051 NSE Scrip Code: HCLTECH Sub: Transcript of the Conference Call held on January 12, 2026 Dear Sir/ Madam, In terms of the SEBI (Listing Obligations and Disclosure Requi"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-f84f09361ca35e7d2913",
+      "symbol": "HCLTECH",
+      "url": "https://nsearchives.nseindia.in/corporate/HCLTECH_12102026165747_FinancialResults.pdf",
+      "title": "HCL Technologies Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "type": "results",
+      "period": "Q2 FY27",
+      "publishedAt": "2026-10-12T11:28:53.000Z",
+      "source": "nsearchives.nseindia.in",
+      "fetchedAt": "2026-11-15T09:15:52.090Z",
+      "hash": "f84f09361ca35e7d29135cf998e32a03e7a70b29986d9efc73ce6fcbfcdf4135",
+      "parser": "unpdf-1.4.0/page-text-v3",
+      "status": "partial",
+      "pages": 27,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "error": "Identity matched, but no relevant text passages were extracted. OCR may be required.",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-10-12",
+        "callDate": null,
+        "periodEnd": "2026-09-30",
+        "discoveredPeriod": "Q2 FY27",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-10-12",
+            "page": 1,
+            "text": "1304, UP, India t: +91 120 4306000 Corporate Identity Number: L74140DL1991PLC046369 Registered Office: 806 Siddharth, 96, Nehru Place, New Delhi -110019, India October 12, 2026 The General Manager BSE Limited Corporate Relationship Department Phiroze Jeeje"
+          },
+          {
+            "field": "periodEnd",
+            "value": "2026-09-30",
+            "page": 1,
+            "text": " No. C-1, Block-G Bandra-Kurla Complex, Bandra(E) Mumbai-400 051 NSE Scrip Code: HCLTECH Sub.: Un-audited Financial Results for the quarter and half-year ended September 30, 2026 Dear Sir/Madam, 1. The Board of Directors has today approved the un-audited (Co"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-2119d33fa2af9db9f227",
+      "symbol": "POLYCAB",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+      "title": "Earnings-call transcript \u00b7 Oct 2026",
+      "type": "transcript",
+      "period": "Q2 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:26.429Z",
+      "hash": "2119d33fa2af9db9f2276725949a0a3ec6305e7df9517baea0f280b9aba64726",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 20,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-10-19",
+        "callDate": "2026-10-15",
+        "periodEnd": "2026-09-30",
+        "discoveredPeriod": "Q2 FY27",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-10-19",
+            "page": 1,
+            "text": "Ruby, 21st Floor, Senapati Bapat Marg, Tulsi Pipe Road, Dadar (West), Mumbai 400 028 Tel: +91 22 6735 1400 Email: shares@polycab.com Web: www.polycab.com Date: October 19, 2026 To Department of Corporate Services BSE Limited Phiroze Jeejeebhoy Towers, Dala"
+          },
+          {
+            "field": "callDate",
+            "value": "2026-10-15",
+            "page": 1,
+            "text": "00051 Scrip Code: 542652 Scrip Symbol: POLYCAB ISIN: INE455K01017 Dear Sir(s) / Madam(s), Subject: Submission of Transcript of Earnings Conference Call held on October 15, 2026. Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requ"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-59ed4c66897046791800",
+      "symbol": "POLYCAB",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf",
+      "title": "Earnings-call transcript \u00b7 Jul 2026",
+      "type": "transcript",
+      "period": "Q1 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:27.171Z",
+      "hash": "59ed4c66897046791800f195ec5de31bfc4f2a7d878a59c7961f3845d419f2e6",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 19,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-07-20",
+        "callDate": "2026-07-16",
+        "periodEnd": "2026-06-30",
+        "discoveredPeriod": "Q1 FY27",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-07-20",
+            "page": 1,
+            "text": "Ruby, 21st Floor, Senapati Bapat Marg, Tulsi Pipe Road, Dadar (West), Mumbai 400 028 Tel: +91 22 6735 1400 Email: shares@polycab.com Web: www.polycab.com Date: July 20, 2026 To Department of Corporate Services BSE Limited Phiroze Jeejeebhoy Towers, Dala"
+          },
+          {
+            "field": "callDate",
+            "value": "2026-07-16",
+            "page": 1,
+            "text": "00051 Scrip Code: 542652 Scrip Symbol: POLYCAB ISIN: INE455K01017 Dear Sir(s) / Madam(s), Subject: Submission of Transcript of Earnings Conference Call held on July 16, 2026. Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requ"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-ffed5ff85c254bce2ade",
+      "symbol": "POLYCAB",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+      "title": "Earnings-call transcript \u00b7 May 2026",
+      "type": "transcript",
+      "period": "Q4 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:27.955Z",
+      "hash": "ffed5ff85c254bce2ade9d6249791c4caab98244aa462321925abd38d2d07347",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 19,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-05-08",
+        "callDate": "2026-05-06",
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "Q4 FY26",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-05-08",
+            "page": 1,
+            "text": "Ruby, 21st Floor, Senapati Bapat Marg, Tulsi Pipe Road, Dadar (West), Mumbai 400 028 Tel: +91 22 6735 1400 Email: shares@polycab.com Web: www.polycab.com Date: May 08, 2026 To Department of Corporate Services BSE Limited Phiroze Jeejeebhoy Towers, Dala"
+          },
+          {
+            "field": "callDate",
+            "value": "2026-05-06",
+            "page": 1,
+            "text": "00051 Scrip Code: 542652 Scrip Symbol: POLYCAB ISIN: INE455K01017 Dear Sir(s) / Madam(s), Subject: Submission of Transcript of Earnings Conference Call held on May 06, 2026. Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requ"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-a329cd206e93f6b36d9b",
+      "symbol": "POLYCAB",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+      "title": "Earnings-call transcript \u00b7 Jan 2026",
+      "type": "transcript",
+      "period": "Q3 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:28.719Z",
+      "hash": "a329cd206e93f6b36d9bb4a10682624bf088792ff1f4cf1adbb5b997e06305eb",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 20,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-01-22",
+        "callDate": "2026-01-16",
+        "periodEnd": "2025-12-31",
+        "discoveredPeriod": "Q3 FY26",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-01-22",
+            "page": 1,
+            "text": "Ruby, 21st Floor, Senapati Bapat Marg, Tulsi Pipe Road, Dadar (West), Mumbai 400 028 Tel: +91 22 6735 1400 Email: shares@polycab.com Web: www.polycab.com Date: January 22, 2026 To Department of Corporate Services BSE Limited Phiroze Jeejeebhoy Towers, Dala"
+          },
+          {
+            "field": "callDate",
+            "value": "2026-01-16",
+            "page": 1,
+            "text": "00051 Scrip Code: 542652 Scrip Symbol: POLYCAB ISIN: INE455K01017 Dear Sir(s) / Madam(s), Subject: Submission of Transcript of Earnings Conference Call held on January 16, 2026. Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requ"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-8386e32c480425b569ad",
+      "symbol": "POLYCAB",
+      "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf",
+      "title": "Polycab India Limited has informed the Exchange about Earnings Presentation on Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
+      "type": "results",
+      "period": "Q2 FY27",
+      "publishedAt": "2026-10-15T08:22:19.000Z",
+      "source": "nsearchives.nseindia.in",
+      "fetchedAt": "2026-11-15T09:15:56.697Z",
+      "hash": "8386e32c480425b569ad0cbfdebc6548173fb88295f72fc2d331fd88b7a2080e",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 20,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-10-15",
+        "callDate": null,
+        "periodEnd": "2026-09-30",
+        "discoveredPeriod": "Q2 FY27",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-10-15",
+            "page": 1,
+            "text": " 21st Floor, Senapati Bapat Marg, Tulsi Pipe Road, Dadar (West), Mumbai 400 028 Tel: +91 22 2432 7070 - 74 Email: shares@polycab.com Web: www.polycab.com Date: October 15, 2026 To Department of Corporate Services BSE Limited Phiroze Jeejeebhoy Towers, Dala"
+          },
+          {
+            "field": "periodEnd",
+            "value": "2026-09-30",
+            "page": 1,
+            "text": " Regulations, 2015, please find enclosed herewith the Earnings Presentation on the Unaudited Financial Results of the Company for the quarter & half year ended September 30, 2026. Kindly take the same on your record. Thanking you Yours Faithfully For Polycab"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-13033ccd2b71c7b60da6",
+      "symbol": "TCS",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+      "title": "TCS earnings call \u00b7 October 2026",
+      "type": "transcript",
+      "period": "Q2 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:37.606Z",
+      "hash": "13033ccd2b71c7b60da6b53cdb7c80013366725d8bc36c3a17749503aad8c2fe",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 29,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-10-14",
+        "callDate": "2026-10-08",
+        "periodEnd": "2026-09-30",
+        "discoveredPeriod": "Q2 FY27",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q2 FY27",
+            "page": 1,
+            "text": "October 14, 2026; quarter and six-month period ended September 30, 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q2 FY27",
+            "page": 2,
+            "text": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-c47e71290e80f0a46ff3",
+      "symbol": "TCS",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+      "title": "TCS earnings call \u00b7 July 2026",
+      "type": "transcript",
+      "period": "Q1 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:38.564Z",
+      "hash": "c47e71290e80f0a46ff3cb9cae57a86ba4d5d5a7322a4f20acbc4640e80b7bfb",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 25,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-07-15",
+        "callDate": "2026-07-09",
+        "periodEnd": "2026-06-30",
+        "discoveredPeriod": "Q1 FY27",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY27",
+            "page": 1,
+            "text": "July 15, 2026; quarter ended June 30, 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY27",
+            "page": 2,
+            "text": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-5298f07b01814d66ed6b",
+      "symbol": "TCS",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+      "title": "TCS earnings call \u00b7 April 2026",
+      "type": "transcript",
+      "period": "Q4 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:39.584Z",
+      "hash": "5298f07b01814d66ed6bdf9f40dc70116ff7f822ef93d29ffe5721b9fc9222c1",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 35,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-04-14",
+        "callDate": "2026-04-09",
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "Q4 FY26",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q4 FY26",
+            "page": 1,
+            "text": "April 14, 2026; quarter and year ended March 31, 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q4 FY26",
+            "page": 2,
+            "text": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-038ef1c48011691a344e",
+      "symbol": "TCS",
+      "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf",
+      "title": "Tata Consultancy Services Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "type": "results",
+      "period": "2026-10-08",
+      "publishedAt": "2026-10-08T10:10:12.000Z",
+      "source": "nsearchives.nseindia.in",
+      "fetchedAt": "2026-11-15T09:15:59.902Z",
+      "hash": "038ef1c48011691a344e0c051d68ec515097938e15300a2fd22d7ebbdcfc9419",
+      "parser": "unpdf-1.4.0/page-text-v1",
+      "status": "extracted",
+      "pages": 22,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages"
+    },
+    {
+      "id": "doc-3fff704a64ede509515b",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77f16d60-73b2-4877-80fb-c641f2529a70.pdf",
+      "title": "Infosys earnings call \u00b7 Apr 2024",
+      "type": "transcript",
+      "period": "Apr 2024",
+      "publishedAt": "2024-04-23T18:29:59Z",
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:18:34.903Z",
+      "hash": "3fff704a64ede509515b5dec21e2f1df82393d54b2fd2f3a97f7c6a39537356e",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 46,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages"
+    },
+    {
+      "id": "doc-fe39830126b7c2ac7751",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/25353afa-0919-47a5-bd94-d149fef7d700.pdf",
+      "title": "Infosys earnings call \u00b7 Jul 2024",
+      "type": "transcript",
+      "period": "Jul 2024",
+      "publishedAt": "2024-07-23T18:29:59Z",
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:18:35.720Z",
+      "hash": "fe39830126b7c2ac7751760eae57e078ac61dc103562f30da78a215480c27abf",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 43,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages"
+    },
+    {
+      "id": "doc-c2197812675d15673eb2",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/166a1b43-d9c7-48a5-b93a-201cd0c324b6.pdf",
+      "title": "Infosys earnings call \u00b7 Oct 2024",
+      "type": "transcript",
+      "period": "Oct 2024",
+      "publishedAt": "2024-10-22T18:29:59Z",
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:18:36.854Z",
+      "hash": "c2197812675d15673eb21f02cbabf70b6d8078d7c11cc91e952fbac883a5b6fe",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 43,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages"
+    },
+    {
+      "id": "doc-eab53c5893f93fe6284e",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ba0eb28e-bc2c-46d4-b945-9f4c67091850.pdf",
+      "title": "Infosys earnings call \u00b7 Jan 2025",
+      "type": "transcript",
+      "period": "Jan 2025",
+      "publishedAt": "2025-01-21T18:29:59Z",
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:18:37.755Z",
+      "hash": "eab53c5893f93fe6284e55671baae03e9b3646def67f08474cbb74c59dc62bad",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 45,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages"
+    },
+    {
+      "id": "doc-d283ccfcecd166568bf1",
+      "symbol": "INFY",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8c8bbc00-087d-4d75-9171-d37a3f83a170.pdf",
+      "title": "Infosys earnings call \u00b7 Apr 2025",
+      "type": "transcript",
+      "period": "Apr 2025",
+      "publishedAt": "2025-04-22T18:29:59Z",
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:18:38.683Z",
+      "hash": "d283ccfcecd166568bf16edc93ce5018209f42d25d6999d8647152ae82b32681",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 48,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages"
+    },
+    {
+      "id": "doc-aebe94916d38b46f2425",
+      "symbol": "HCLTECH",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+      "title": "Annual Report 2026",
+      "type": "annual_report",
+      "period": "FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:15.359Z",
+      "hash": "aebe94916d38b46f2425688756d8ccebf73b0460803daa7af07cf72c928ca96e",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 485,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-07-20",
+        "callDate": null,
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "FY26",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-07-20",
+            "page": 1,
+            "text": "1304, UP, India t: +91 120 4306000 Corporate Identity Number: L74140DL1991PLC046369 Registered Office: 806 Siddharth, 96, Nehru Place, New Delhi -110019, India July 20, 2026 The General Manager The Manager BSE Limited National Stock Exchange of India Li"
+          },
+          {
+            "field": "periodEnd",
+            "value": "2026-03-31",
+            "page": 2,
+            "text": " receive, consider and adopt the Audited Financial Statements , including Audited Consolidated Financial Statements of the Company for the financial year ended March 31, 2026, together with the Reports of the Board of Directors and of the Statutory Audit"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-fdadd373a7346f119602",
+      "symbol": "POLYCAB",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff6bcced-1327-449f-8a82-6fd651a0124f.pdf",
+      "title": "Annual Report 2026",
+      "type": "annual_report",
+      "period": "FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:25.548Z",
+      "hash": "fdadd373a7346f1196026be3eac00495c63836b0fedc284a527ba7120f883f33",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 527,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff6bcced-1327-449f-8a82-6fd651a0124f.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-06-08",
+        "callDate": null,
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "FY26",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-06-08",
+            "page": 1,
+            "text": "Ruby, 21st Floor, Senapati Bapat Marg, Tulsi Pipe Road, Dadar (West), Mumbai 400 028 Tel: +91 22 6735 1400 Email: shares@polycab.com Web: www.polycab.com Date: June 08, 2026 To Department of Corporate Services BSE Limited Phiroze Jeejeebhoy Towers, Dala"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-d0bdc7fe1ae741b07bb7",
+      "symbol": "TCS",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+      "title": "TCS integrated annual report \u00b7 FY26",
+      "type": "annual_report",
+      "period": "FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:36.665Z",
+      "hash": "d0bdc7fe1ae741b07bb76a158019cae05ab18abd2c2eeda43177d367bef24eb8",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 361,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-05-15",
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "FY26",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "FY26",
+            "page": 1,
+            "text": "May 15, 2026; Integrated Annual Report for financial year 2025-26"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "FY26",
+            "page": 5,
+            "text": "Reporting Period: April 1, 2025 to March 31, 2026."
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-32f7daf10bf854e0de9e",
+      "symbol": "TCS",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9cee0fdb-07a3-4dc6-af7a-40dce51e1348.pdf",
+      "title": "TCS earnings call \u00b7 July 2025",
+      "type": "transcript",
+      "period": "Q1 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:39.156Z",
+      "hash": "32f7daf10bf854e0de9e175799d944d6bcc83c46061bde4e73a524555b85ac39",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 29,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "originalUrl": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2025-07-14",
+        "callDate": "2025-07-10",
+        "periodEnd": "2025-06-30",
+        "discoveredPeriod": "Jul 2026",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY26",
+            "page": 1,
+            "text": "July 14, 2025; quarter ended June 30, 2025; July 10, 2025"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY26",
+            "page": 2,
+            "text": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+          }
+        ],
+        "warnings": [
+          "Discovery period Jul 2026 conflicts with the actual Jul 2025 document and Q1 FY26 call.",
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-b7977d2419ed2e211d0a",
+      "symbol": "ASIANPAINT",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+      "title": "Asian Paints integrated annual report \u00b7 FY26",
+      "type": "annual_report",
+      "period": "FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:46.718Z",
+      "hash": "b7977d2419ed2e211d0ad53270165cc4205cafff7982b6b74fed6502fa25aacb",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 294,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-06-12",
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "FY26",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "FY26",
+            "page": 1,
+            "text": "12th June 2026; Integrated Annual Report for the financial year 2025-26"
+          }
+        ],
+        "warnings": [
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-5194bb1483895afd0e5f",
+      "symbol": "ASIANPAINT",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
+      "title": "Asian Paints earnings call \u00b7 October 2026",
+      "type": "transcript",
+      "period": "Q2 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:47.537Z",
+      "hash": "5194bb1483895afd0e5f41ebfab2c9cc29913ee850c7cb480a2d48cde126f4bf",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 34,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-11-03",
+        "callDate": "2026-10-29",
+        "periodEnd": "2026-09-30",
+        "discoveredPeriod": "Q2 FY27",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q2 FY27",
+            "page": 1,
+            "text": "3rd November 2026; conference held on Thursday, 29th October 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q2 FY27",
+            "page": 2,
+            "text": "Conference-call title page independently states event date and quarter."
+          }
+        ],
+        "warnings": [
+          "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately.",
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-579a8a98c6eb6bd9864e",
+      "symbol": "ASIANPAINT",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+      "title": "Asian Paints earnings call \u00b7 July 2026",
+      "type": "transcript",
+      "period": "Q1 FY27",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:48.641Z",
+      "hash": "579a8a98c6eb6bd9864e44c62469ba5f311e4cf7a6137ae42040f5a8fe17794c",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 26,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-08-03",
+        "callDate": "2026-07-29",
+        "periodEnd": "2026-06-30",
+        "discoveredPeriod": "Q1 FY27",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY27",
+            "page": 1,
+            "text": "3rd August 2026; conference held on Wednesday, 29th July 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q1 FY27",
+            "page": 2,
+            "text": "Conference-call title page independently states event date and quarter."
+          }
+        ],
+        "warnings": [
+          "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately.",
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-2d66e2c4b51545d6c235",
+      "symbol": "ASIANPAINT",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+      "title": "Asian Paints earnings call \u00b7 May 2026",
+      "type": "transcript",
+      "period": "Q4 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:49.533Z",
+      "hash": "2d66e2c4b51545d6c235e7d0d6ad69f47dd5f503e88e80a5314c520420521aed",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 26,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-06-03",
+        "callDate": "2026-05-29",
+        "periodEnd": "2026-03-31",
+        "discoveredPeriod": "Q4 FY26",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q4 FY26",
+            "page": 1,
+            "text": "3rd June 2026; conference held on Friday, 29th May 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q4 FY26",
+            "page": 2,
+            "text": "Conference-call title page independently states event date and quarter."
+          }
+        ],
+        "warnings": [
+          "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately.",
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-caab390714911346d2a5",
+      "symbol": "ASIANPAINT",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+      "title": "Asian Paints earnings call \u00b7 January 2026",
+      "type": "transcript",
+      "period": "Q3 FY26",
+      "publishedAt": null,
+      "source": "www.bseindia.com",
+      "fetchedAt": "2026-11-15T09:36:50.573Z",
+      "hash": "caab390714911346d2a59c399a196f5b607b3f5bc6cf5f729577ec6130328545",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 38,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-02-02",
+        "callDate": "2026-01-27",
+        "periodEnd": "2025-12-31",
+        "discoveredPeriod": "Q3 FY26",
+        "receipts": [
+          {
+            "field": "primary_document_review",
+            "value": "Q3 FY26",
+            "page": 1,
+            "text": "2nd February 2026; conference held on Tuesday, 27th January 2026"
+          },
+          {
+            "field": "primary_document_review",
+            "value": "Q3 FY26",
+            "page": 2,
+            "text": "Conference-call title page independently states event date and quarter."
+          }
+        ],
+        "warnings": [
+          "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately.",
+          "Document date verified from the primary cover; publication time remains independently unverified unless supplied by the exchange."
+        ]
+      }
+    },
+    {
+      "id": "doc-f572c75144e5e94d236a",
+      "symbol": "INFY",
+      "url": "https://nsearchives.nseindia.in/corporate/Infosys_17042025162119_BM_Outcome_April172025.pdf",
+      "title": "Infosys consolidated quarterly results \u00b7 March 2025",
+      "type": "results",
+      "period": "Q4 FY25",
+      "publishedAt": "2025-04-17T10:53:14.000Z",
+      "source": "nsearchives.nseindia.in",
+      "fetchedAt": "2026-11-15T09:42:25.428Z",
+      "hash": "f572c75144e5e94d236a07338241d1df8a1a0fd4bb2586bd4648ccaa16cf0874",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 380,
+      "identity": "Company name, ticker or ISIN matched in the first eight pages"
+    },
+    {
+      "id": "doc-28ba859d63f83c8a62f0",
+      "symbol": "HCLTECH",
+      "url": "https://www.hcltech.com/sites/default/files/en/investors/3098/hcltech-earnings-q4-fy26-transcript.pdf",
+      "type": "transcript",
+      "hash": "28ba859d63f83c8a62f095a02bc883cd8b0503f83a9f06eb8499ec159c7f2eee",
+      "title": "HCLTech earnings call \u00b7 Apr 2026",
+      "period": "Q4 FY26",
+      "publishedAt": null,
+      "fetchedAt": "2026-11-15T11:00:52.626Z",
+      "parser": "unpdf-1.4.0/page-text-v4",
+      "status": "extracted",
+      "pages": 24,
+      "source": "www.hcltech.com",
+      "identity": "Issuer-hosted transcript; company and management identified in opening pages",
+      "metadata": {
+        "status": "verified",
+        "documentDate": "2026-04-21",
+        "discoveredPeriod": "Apr 2026",
+        "receipts": [
+          {
+            "field": "documentDate",
+            "value": "2026-04-21",
+            "page": 1,
+            "text": " 1 \u201cHCL Technologies Limited Q4 & Annual FY'26 Earnings Conference Call\u201d April 21, 2026 Management: Mr. C. Vijayakumar \u2013 Chief Executive Officer & Managing Director Mr"
+          }
+        ],
+        "warnings": [
+          "A document/letter date is not independently verified exchange publication time."
+        ]
+      }
+    }
+  ],
+  "marketSources": [
+    {
+      "symbol": "HDFCBANK",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/HDFCBANK.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:51.011Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "ICICIBANK",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/ICICIBANK.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:51.506Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "ITC",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/ITC.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:52.030Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "TITAN",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/TITAN.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:52.380Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "CCL",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/CCL.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:52.706Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "LT",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/LT.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:53.157Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "CERA",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/CERA.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:54.364Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "RELIANCE",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/RELIANCE.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:54.657Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "TATAPOWER",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/TATAPOWER.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:55.175Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "MARUTI",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/MARUTI.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:55.474Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "EICHERMOT",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/EICHERMOT.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:55.857Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/SUNPHARMA.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:56.395Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "DIVISLAB",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/DIVISLAB.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:56.879Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "AARTIIND",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/AARTIIND.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:14:57.278Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "INFY",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/INFY.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:15:38.468Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "HCLTECH",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/HCLTECH.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:15:47.082Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "POLYCAB",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/POLYCAB.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:15:52.433Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    },
+    {
+      "symbol": "TCS",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?range=3mo&interval=1d&events=splits",
+      "source": "Yahoo Finance",
+      "fetchedAt": "2026-11-15T09:15:57.048Z",
+      "basis": "Unadjusted close; split sessions suppressed. Volume uses the previous 20 sessions."
+    }
+  ],
+  "notes": [
+    "Raw PDF files are not bundled. Short source excerpts and numerical facts are retained for this review prototype.",
+    "Online jobs allow up to 32 MB and 550 pages, with bounded retries. OCR recovery is local and requires review.",
+    "Publication time is separate from fetch time. Unknown publication dates are excluded from earlier historical queries."
+  ],
+  "counts": {
+    "portfolioCompanies": 18,
+    "filings": 334,
+    "documents": 35,
+    "passages": 5244
+  },
+  "metadataReviewedAt": "2026-11-15",
+  "passagesReindexedAt": "2026-11-15T12:43:52.309Z"
+}

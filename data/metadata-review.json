@@ -1,0 +1,583 @@
+{
+  "reviewedOn": "2026-11-15",
+  "note": "Primary document dates, not inferred publication dates.",
+  "records": [
+    {
+      "documentId": "doc-889ee382d055a528a645",
+      "symbol": "INFY",
+      "canonicalTitle": "Infosys integrated annual report · FY26",
+      "reportingPeriod": "FY26",
+      "type": "annual_report",
+      "documentDate": "2026-05-29",
+      "eventDate": null,
+      "reportingPeriodEnd": "2026-03-31",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "May 29, 2026; Integrated Annual Report for the Financial Year 2025-26",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-b8e9a931ed54ee49a23f",
+      "symbol": "INFY",
+      "canonicalTitle": "Infosys earnings call · October 2026",
+      "reportingPeriod": "Q2 FY27",
+      "type": "transcript",
+      "documentDate": "2026-10-28",
+      "eventDate": "2026-10-23",
+      "reportingPeriodEnd": "2026-09-30",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7982fc61-7765-4981-ab3d-6aec36ba2137.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "October 28, 2026; Board of directors on October 23, 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-bdc83ce116f1336145a1",
+      "symbol": "INFY",
+      "canonicalTitle": "Infosys earnings call · July 2026",
+      "reportingPeriod": "Q1 FY27",
+      "type": "transcript",
+      "documentDate": "2026-07-28",
+      "eventDate": "2026-07-23",
+      "reportingPeriodEnd": "2026-06-30",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "July 28, 2026; Board of directors on July 23, 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-4ac29aca97bbdc1fb2f6",
+      "symbol": "INFY",
+      "canonicalTitle": "Infosys earnings call · April 2026",
+      "reportingPeriod": "Q4 FY26",
+      "type": "transcript",
+      "documentDate": "2026-04-27",
+      "eventDate": "2026-04-23",
+      "reportingPeriodEnd": "2026-03-31",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "April 27, 2026; Board of directors on April 23, 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-e1d969bc5afd09fa6955",
+      "symbol": "INFY",
+      "canonicalTitle": "Infosys Investor AI Day · February 2026",
+      "reportingPeriod": "Investor AI Day 2026",
+      "type": "investor_event_transcript",
+      "documentDate": "2026-02-24",
+      "eventDate": "2026-02-17",
+      "reportingPeriodEnd": null,
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4632b94-2a41-4103-876d-cdb1f6848d64.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "February 24, 2026; Transcript of the Infosys Limited Investor AI Day 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Title is Investor AI Day 2026, dated February 17, 2026; February is split across a PDF line break."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": [
+        "Discovery labelled a non-quarterly Investor AI Day transcript as an earnings-call transcript."
+      ]
+    },
+    {
+      "documentId": "doc-13033ccd2b71c7b60da6",
+      "symbol": "TCS",
+      "canonicalTitle": "TCS earnings call · October 2026",
+      "reportingPeriod": "Q2 FY27",
+      "type": "transcript",
+      "documentDate": "2026-10-14",
+      "eventDate": "2026-10-08",
+      "reportingPeriodEnd": "2026-09-30",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "October 14, 2026; quarter and six-month period ended September 30, 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-c47e71290e80f0a46ff3",
+      "symbol": "TCS",
+      "canonicalTitle": "TCS earnings call · July 2026",
+      "reportingPeriod": "Q1 FY27",
+      "type": "transcript",
+      "documentDate": "2026-07-15",
+      "eventDate": "2026-07-09",
+      "reportingPeriodEnd": "2026-06-30",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "July 15, 2026; quarter ended June 30, 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-5298f07b01814d66ed6b",
+      "symbol": "TCS",
+      "canonicalTitle": "TCS earnings call · April 2026",
+      "reportingPeriod": "Q4 FY26",
+      "type": "transcript",
+      "documentDate": "2026-04-14",
+      "eventDate": "2026-04-09",
+      "reportingPeriodEnd": "2026-03-31",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "April 14, 2026; quarter and year ended March 31, 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-d0bdc7fe1ae741b07bb7",
+      "symbol": "TCS",
+      "canonicalTitle": "TCS integrated annual report · FY26",
+      "reportingPeriod": "FY26",
+      "type": "annual_report",
+      "documentDate": "2026-05-15",
+      "eventDate": null,
+      "reportingPeriodEnd": "2026-03-31",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "May 15, 2026; Integrated Annual Report for financial year 2025-26",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 5,
+          "summary": "Reporting Period: April 1, 2025 to March 31, 2026."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-1df757408cae23c226f5",
+      "symbol": "TCS",
+      "canonicalTitle": "TCS earnings call · July 2025",
+      "reportingPeriod": "Q1 FY26",
+      "type": "transcript",
+      "documentDate": "2025-07-14",
+      "eventDate": "2025-07-10",
+      "reportingPeriodEnd": "2025-06-30",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "July 14, 2025; quarter ended June 30, 2025; July 10, 2025",
+          "method": "Original TCS PDF opened through web; official BSE mirror downloaded and full page text extracted. Both confirm the same dates; no independently verified exchange-publication timestamp."
+        },
+        {
+          "page": 2,
+          "summary": "Call date and quarter checked against conference-call title/intro; INFY reporting quarter also appears in the official quarterly-results URL on page 1."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": [
+        "Discovery period Jul 2026 conflicts with the actual Jul 2025 document and Q1 FY26 call."
+      ],
+      "alternateSourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9cee0fdb-07a3-4dc6-af7a-40dce51e1348.pdf",
+      "alternateSourceSha256": "32f7daf10bf854e0de9e175799d944d6bcc83c46061bde4e73a524555b85ac39",
+      "alternateSourceNote": "Official BSE mirror found by exact filing reference TCS/SE/71/2025-26. Cover/date/call/29 PDF pages match. BSE mirror includes digital-signature text and is not byte-identical to the original TCS PDF. Preserve alternate URL/hash together if promoting this content."
+    },
+    {
+      "documentId": "doc-b7977d2419ed2e211d0a",
+      "symbol": "ASIANPAINT",
+      "canonicalTitle": "Asian Paints integrated annual report · FY26",
+      "reportingPeriod": "FY26",
+      "type": "annual_report",
+      "documentDate": "2026-06-12",
+      "eventDate": null,
+      "reportingPeriodEnd": "2026-03-31",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "12th June 2026; Integrated Annual Report for the financial year 2025-26",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": []
+    },
+    {
+      "documentId": "doc-5194bb1483895afd0e5f",
+      "symbol": "ASIANPAINT",
+      "canonicalTitle": "Asian Paints earnings call · October 2026",
+      "reportingPeriod": "Q2 FY27",
+      "type": "transcript",
+      "documentDate": "2026-11-03",
+      "eventDate": "2026-10-29",
+      "reportingPeriodEnd": "2026-09-30",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "3rd November 2026; conference held on Thursday, 29th October 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Conference-call title page independently states event date and quarter."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": [
+        "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately."
+      ]
+    },
+    {
+      "documentId": "doc-579a8a98c6eb6bd9864e",
+      "symbol": "ASIANPAINT",
+      "canonicalTitle": "Asian Paints earnings call · July 2026",
+      "reportingPeriod": "Q1 FY27",
+      "type": "transcript",
+      "documentDate": "2026-08-03",
+      "eventDate": "2026-07-29",
+      "reportingPeriodEnd": "2026-06-30",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "3rd August 2026; conference held on Wednesday, 29th July 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Conference-call title page independently states event date and quarter."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": [
+        "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately."
+      ]
+    },
+    {
+      "documentId": "doc-2d66e2c4b51545d6c235",
+      "symbol": "ASIANPAINT",
+      "canonicalTitle": "Asian Paints earnings call · May 2026",
+      "reportingPeriod": "Q4 FY26",
+      "type": "transcript",
+      "documentDate": "2026-06-03",
+      "eventDate": "2026-05-29",
+      "reportingPeriodEnd": "2026-03-31",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "3rd June 2026; conference held on Friday, 29th May 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Conference-call title page independently states event date and quarter."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": [
+        "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately."
+      ]
+    },
+    {
+      "documentId": "doc-caab390714911346d2a5",
+      "symbol": "ASIANPAINT",
+      "canonicalTitle": "Asian Paints earnings call · January 2026",
+      "reportingPeriod": "Q3 FY26",
+      "type": "transcript",
+      "documentDate": "2026-02-02",
+      "eventDate": "2026-01-27",
+      "reportingPeriodEnd": "2025-12-31",
+      "publishedAt": null,
+      "datePrecision": "day",
+      "availabilityStatus": "exchange_publication_not_independently_verified",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+      "receipts": [
+        {
+          "page": 1,
+          "summary": "2nd February 2026; conference held on Tuesday, 27th January 2026",
+          "method": "Primary PDF cover letter read in full; document date is not asserted to equal exchange publication."
+        },
+        {
+          "page": 2,
+          "summary": "Conference-call title page independently states event date and quarter."
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "corrections": [
+        "Discovery title uses the later filing month; canonical title uses actual call month and preserves documentDate separately."
+      ]
+    },
+    {
+      "documentId": "doc-baf227e394b6f6be0659",
+      "symbol": "HCLTECH",
+      "documentDate": "2026-10-15",
+      "callDate": "2026-10-12",
+      "reportingPeriod": "Q2 FY27",
+      "periodEnd": "2026-09-30",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-baf227e394b6f6be0659.json"
+    },
+    {
+      "documentId": "doc-dac08c9eb661454215e2",
+      "symbol": "HCLTECH",
+      "documentDate": "2026-07-15",
+      "callDate": "2026-07-13",
+      "reportingPeriod": "Q1 FY27",
+      "periodEnd": "2026-06-30",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/11be9fba-0308-4756-a474-e4f2903fdaac.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-dac08c9eb661454215e2.json"
+    },
+    {
+      "documentId": "doc-9ddccba7f5707de4f1d0",
+      "symbol": "HCLTECH",
+      "documentDate": "2026-01-16",
+      "callDate": "2026-01-12",
+      "reportingPeriod": "Q3 FY26",
+      "periodEnd": "2025-12-31",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-9ddccba7f5707de4f1d0.json"
+    },
+    {
+      "documentId": "doc-f84f09361ca35e7d2913",
+      "symbol": "HCLTECH",
+      "documentDate": "2026-10-12",
+      "callDate": null,
+      "reportingPeriod": "Q2 FY27",
+      "periodEnd": "2026-09-30",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://nsearchives.nseindia.in/corporate/HCLTECH_12102026165747_FinancialResults.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-f84f09361ca35e7d2913.json"
+    },
+    {
+      "documentId": "doc-2119d33fa2af9db9f227",
+      "symbol": "POLYCAB",
+      "documentDate": "2026-10-19",
+      "callDate": "2026-10-15",
+      "reportingPeriod": "Q2 FY27",
+      "periodEnd": "2026-09-30",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-2119d33fa2af9db9f227.json"
+    },
+    {
+      "documentId": "doc-59ed4c66897046791800",
+      "symbol": "POLYCAB",
+      "documentDate": "2026-07-20",
+      "callDate": "2026-07-16",
+      "reportingPeriod": "Q1 FY27",
+      "periodEnd": "2026-06-30",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-59ed4c66897046791800.json"
+    },
+    {
+      "documentId": "doc-ffed5ff85c254bce2ade",
+      "symbol": "POLYCAB",
+      "documentDate": "2026-05-08",
+      "callDate": "2026-05-06",
+      "reportingPeriod": "Q4 FY26",
+      "periodEnd": "2026-03-31",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-ffed5ff85c254bce2ade.json"
+    },
+    {
+      "documentId": "doc-a329cd206e93f6b36d9b",
+      "symbol": "POLYCAB",
+      "documentDate": "2026-01-22",
+      "callDate": "2026-01-16",
+      "reportingPeriod": "Q3 FY26",
+      "periodEnd": "2025-12-31",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-a329cd206e93f6b36d9b.json"
+    },
+    {
+      "documentId": "doc-8386e32c480425b569ad",
+      "symbol": "POLYCAB",
+      "documentDate": "2026-10-15",
+      "callDate": null,
+      "reportingPeriod": "Q2 FY27",
+      "periodEnd": "2026-09-30",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-8386e32c480425b569ad.json"
+    },
+    {
+      "documentId": "doc-aebe94916d38b46f2425",
+      "symbol": "HCLTECH",
+      "documentDate": "2026-07-20",
+      "callDate": null,
+      "reportingPeriod": "FY26",
+      "periodEnd": "2026-03-31",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-aebe94916d38b46f2425.json"
+    },
+    {
+      "documentId": "doc-fdadd373a7346f119602",
+      "symbol": "POLYCAB",
+      "documentDate": "2026-06-08",
+      "callDate": null,
+      "reportingPeriod": "FY26",
+      "periodEnd": "2026-03-31",
+      "publishedAt": null,
+      "publicationNote": "Document date is verified from the primary cover; exact exchange availability is not established by the cover alone. Preserve existing independently verified publication timestamps where available.",
+      "metadataSource": {
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff6bcced-1327-449f-8a82-6fd651a0124f.pdf",
+        "page": 1
+      },
+      "pagesFile": "/Users/prabhatsingh/Documents/ChatGPT/ENAM AI/finn/outputs/audit-research/doc-fdadd373a7346f119602.json"
+    }
+  ]
+}

@@ -28,6 +28,8 @@ FINN connects a filing worth investigating to the company documents behind it. T
 Requires Node.js 22.13+ and npm. No model key is needed for the inbox, evidence search or verified example.
 
 ```sh
+git clone https://github.com/Prabhat01-code/finn-enam.git
+cd finn-enam
 npm ci
 cp .dev.vars.example .dev.vars
 # Optional: edit .dev.vars and set HYDE_API_KEY. Never commit that file.
@@ -140,6 +142,6 @@ FINN is hosted publicly at [finn-prabhat-enam.shadowps-07.chatgpt.site](https://
 
 ## Release verification
 
-See `docs/RELEASE-2026-11-15.md` for the final fixes, observed model checks and evaluation limits. Earlier audit notes are retained as historical records. CI runs lint, TypeScript, deterministic tests and the production build without model credentials.
+See [the verification record](docs/VERIFICATION.md) and `docs/RELEASE-2026-11-15.md` for checks and limitations. Earlier audit notes are retained as historical records. The CI workflow is configured for lint, TypeScript, deterministic tests and the production build without model credentials. Its first GitHub run could not start because of an account-level runner restriction; hosted CI has not passed.
 
 See [RESEARCH-UPGRADE-2026-11-15.md](docs/RESEARCH-UPGRADE-2026-11-15.md) for the question router, unattended jobs, company pages, quarter cards, benchmark and remaining activation steps.
